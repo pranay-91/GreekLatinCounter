@@ -1,0 +1,2 @@
+BEGIN {Greek=0; Latin=0}
+END {printf("\nGreek: %d\nLatin: %d", Greek, Latin)}
