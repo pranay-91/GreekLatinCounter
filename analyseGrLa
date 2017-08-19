@@ -1,2055 +1,2055 @@
-/^ab[a-z]*/{Latin=Latin+1;}
-/^a[a-z]*/{Latin=Latin+1;}
-/^abs[a-z]*/{Latin=Latin+1;}
-/^au[a-z]*/{Latin=Latin+1;}
-/^abac[a-z]*/{Greek=Greek+1;}
-/^ac[a-z]*/{Greek=Greek+1;}
-/^acm[a-z]*/{Greek=Greek+1;}
-/^acr[a-z]*/{Greek=Greek+1;}
-/^ac[a-z]*/{Greek=Greek+1;}
-/^academ[a-z]*/{Greek=Greek+1;}
-/^acanth[a-z]*/{Greek=Greek+1;}
-/^acar[a-z]*/{Greek=Greek+1;}
-/^accipitr[a-z]*/{Latin=Latin+1;}
-/^acer[a-z]*/{Latin=Latin+1;}
-/^acri[a-z]*/{Latin=Latin+1;}
-/^acet[a-z]*/{Latin=Latin+1;}
-/^acid[a-z]*/{Latin=Latin+1;}
-/^acr[a-z]*/{Greek=Greek+1;}
-/^actin[a-z]*/{Greek=Greek+1;}
-/^acu[a-z]*/{Latin=Latin+1;}
-/^acut[a-z]*/{Latin=Latin+1;}
-/^ad[a-z]*/{Latin=Latin+1;}
-/^a[a-z]*/{Latin=Latin+1;}
-/^ac[a-z]*/{Latin=Latin+1;}
-/^af[a-z]*/{Latin=Latin+1;}
-/^ag[a-z]*/{Latin=Latin+1;}
-/^al[a-z]*/{Latin=Latin+1;}
-/^am[a-z]*/{Latin=Latin+1;}
-/^an[a-z]*/{Latin=Latin+1;}
-/^ap[a-z]*/{Latin=Latin+1;}
-/^ar[a-z]*/{Latin=Latin+1;}
-/^as[a-z]*/{Latin=Latin+1;}
-/^at[a-z]*/{Latin=Latin+1;}
-/^aden[a-z]*/{Greek=Greek+1;}
-/^adip[a-z]*/{Latin=Latin+1;}
-/^aer[a-z]*/{Greek=Greek+1;}
-/^aer[a-z]*/{Greek=Greek+1;}
-/^aesth[a-z]*/{Greek=Greek+1;}
-/^aether[a-z]*/{Greek=Greek+1;}
-/^ether[a-z]*/{Greek=Greek+1;}
-/^aev[a-z]*/{Latin=Latin+1;}
-/^ev[a-z]*/{Latin=Latin+1;}
-/^ag[a-z]*/{Latin=Latin+1;}
-/[a-z]*ig[a-z]*/{Latin=Latin+1;}
-/^act[a-z]*/{Latin=Latin+1;}
-/^ag[a-z]*/{Greek=Greek+1;}
-/^agap[a-z]*/{Greek=Greek+1;}
-/^agr[a-z]*/{Greek=Greek+1;}
-/^agri[a-z]*/{Latin=Latin+1;}
-/[a-z]*egri[a-z]*/{Latin=Latin+1;}
-/^ailur[a-z]*/{Greek=Greek+1;}
-/^alac[a-z]*/{Latin=Latin+1;}
-/^alb[a-z]*/{Latin=Latin+1;}
-/^alcyon[a-z]*/{Greek=Greek+1;}
-/^ale[a-z]*/{Greek=Greek+1;}
-/^alg[a-z]*/{Greek=Greek+1;}
-/^ali[a-z]*/{Latin=Latin+1;}
-/^alter[a-z]*/{Latin=Latin+1;}
-/^all[a-z]*/{Greek=Greek+1;}
-/^allel[a-z]*/{Greek=Greek+1;}
-/^alph[a-z]*/{Greek=Greek+1;}
-/^alphit[a-z]*/{Greek=Greek+1;}
-/^alt[a-z]*/{Latin=Latin+1;}
-/^am[a-z]*/{Latin=Latin+1;}
-/^amat[a-z]*/{Latin=Latin+1;}
-/^am[a-z]*/{Latin=Latin+1;}
-/^amic[a-z]*/{Latin=Latin+1;}
-/[a-z]*imic[a-z]*/{Latin=Latin+1;}
-/^amath[a-z]*/{Greek=Greek+1;}
-/^ambi[a-z]*/{Latin=Latin+1;}
-/^am[a-z]*/{Latin=Latin+1;}
-/^amb[a-z]*/{Latin=Latin+1;}
-/^ambo[a-z]*/{Latin=Latin+1;}
-/^an[a-z]*/{Latin=Latin+1;}
-/^ambly[a-z]*/{Greek=Greek+1;}
-/^ambul[a-z]*/{Latin=Latin+1;}
-/^amm[a-z]*/{Greek=Greek+1;}
-/^amn[a-z]*/{Greek=Greek+1;}
-/^amph[a-z]*/{Greek=Greek+1;}
-/^amphi[a-z]*/{Greek=Greek+1;}
-/^ampl[a-z]*/{Latin=Latin+1;}
-/^amygdal[a-z]*/{Greek=Greek+1;}
-/^an[a-z]*/{Greek=Greek+1;}
-/^a[a-z]*/{Greek=Greek+1;}
-/^am[a-z]*/{Greek=Greek+1;}
-/^ar[a-z]*/{Greek=Greek+1;}
-/^ana[a-z]*/{Greek=Greek+1;}
-/^am[a-z]*/{Greek=Greek+1;}
-/^an[a-z]*/{Greek=Greek+1;}
-/^andr[a-z]*/{Greek=Greek+1;}
-/^anem[a-z]*/{Greek=Greek+1;}
-/^anim[a-z]*/{Latin=Latin+1;}
-/^ann[a-z]*/{Latin=Latin+1;}
-/[a-z]*enn[a-z]*/{Latin=Latin+1;}
-/^ant[a-z]*/{Greek=Greek+1;}
-/^anti[a-z]*/{Greek=Greek+1;}
-/^ante[a-z]*/{Latin=Latin+1;}
-/^anti[a-z]*/{Latin=Latin+1;}
-/^anth[a-z]*/{Greek=Greek+1;}
-/^anthrac[a-z]*/{Greek=Greek+1;}
-/^anthrop[a-z]*/{Greek=Greek+1;}
-/^ap[a-z]*/{Greek=Greek+1;}
-/^apo[a-z]*/{Greek=Greek+1;}
-/^aper[a-z]*/{Latin=Latin+1;}
-/^aphrod[a-z]*/{Greek=Greek+1;}
-/^api[a-z]*/{Latin=Latin+1;}
-/^aqu[a-z]*/{Latin=Latin+1;}
-/^ara[a-z]*/{Latin=Latin+1;}
-/^arachn[a-z]*/{Greek=Greek+1;}
-/^arbit[a-z]*/{Latin=Latin+1;}
-/^arcan[a-z]*/{Latin=Latin+1;}
-/^arch[a-z]*/{Greek=Greek+1;}
-/^arche[a-z]*/{Greek=Greek+1;}
-/^archi[a-z]*/{Greek=Greek+1;}
-/^archae[a-z]*/{Greek=Greek+1;}
-/^arche[a-z]*/{Greek=Greek+1;}
-/^arct[a-z]*/{Greek=Greek+1;}
-/^ard[a-z]*/{Latin=Latin+1;}
-/^ardu[a-z]*/{Latin=Latin+1;}
-/^aret[a-z]*/{Greek=Greek+1;}
-/^argent[a-z]*/{Latin=Latin+1;}
-/^arid[a-z]*/{Latin=Latin+1;}
-/^arist[a-z]*/{Greek=Greek+1;}
-/^arithm[a-z]*/{Greek=Greek+1;}
-/^arsen[a-z]*/{Greek=Greek+1;}
-/^art[a-z]*/{Latin=Latin+1;}
-/^arthr[a-z]*/{Greek=Greek+1;}
-/^arti[a-z]*/{Greek=Greek+1;}
-/^asc[a-z]*/{Greek=Greek+1;}
-/^asin[a-z]*/{Latin=Latin+1;}
-/^asper[a-z]*/{Latin=Latin+1;}
-/^aspr[a-z]*/{Greek=Greek+1;}
-/^aster[a-z]*/{Greek=Greek+1;}
-/^astr[a-z]*/{Greek=Greek+1;}
-/^asthen[a-z]*/{Greek=Greek+1;}
-/^ather[a-z]*/{Greek=Greek+1;}
-/^athl[a-z]*/{Greek=Greek+1;}
-/[a-z]*athroid[a-z]*/{Greek=Greek+1;}
-/^audac[a-z]*/{Latin=Latin+1;}
-/^aud[a-z]*/{Latin=Latin+1;}
-/^aug[a-z]*/{Latin=Latin+1;}
-/^auct[a-z]*/{Latin=Latin+1;}
-/^aul[a-z]*/{Greek=Greek+1;}
-/^aur[a-z]*/{Latin=Latin+1;}
-/^auri[a-z]*/{Latin=Latin+1;}
-/^aus[a-z]*/{Latin=Latin+1;}
-/^aut[a-z]*/{Greek=Greek+1;}
-/^auto[a-z]*/{Greek=Greek+1;}
-/^aux[a-z]*/{Greek=Greek+1;}
-/^av[a-z]*/{Latin=Latin+1;}
-/^avi[a-z]*/{Latin=Latin+1;}
-/^au[a-z]*/{Latin=Latin+1;}
-/^axi[a-z]*/{Greek=Greek+1;}
-/^axi[a-z]*/{Latin=Latin+1;}
-/^axon[a-z]*/{Greek=Greek+1;}
-/^ba[a-z]*/{Greek=Greek+1;}
-/^bac[a-z]*/{Latin=Latin+1;}
-/^bal[a-z]*/{Greek=Greek+1;}
-/^bel[a-z]*/{Greek=Greek+1;}
-/^bol[a-z]*/{Greek=Greek+1;}
-/^bapt[a-z]*/{Greek=Greek+1;}
-/^bar[a-z]*/{Greek=Greek+1;}
-/^bas[a-z]*/{Greek=Greek+1;}
-/^bath[a-z]*/{Greek=Greek+1;}
-/^be[a-z]*/{Latin=Latin+1;}
-/^beat[a-z]*/{Latin=Latin+1;}
-/^bell[a-z]*/{Latin=Latin+1;}
-/^belli[a-z]*/{Latin=Latin+1;}
-/^ben[a-z]*/{Latin=Latin+1;}
-/^bi[a-z]*/{Latin=Latin+1;}
-/^bin[a-z]*/{Latin=Latin+1;}
-/^bis[a-z]*/{Latin=Latin+1;}
-/^bib[a-z]*/{Latin=Latin+1;}
-/^bibl[a-z]*/{Greek=Greek+1;}
-/^bio[a-z]*/{Greek=Greek+1;}
-/^bi[a-z]*/{Greek=Greek+1;}
-/^blast[a-z]*/{Greek=Greek+1;}
-/^blenn[a-z]*/{Greek=Greek+1;}
-/^bol[a-z]*/{Greek=Greek+1;}
-/^bol[a-z]*/{Greek=Greek+1;}
-/^bomb[a-z]*/{Greek=Greek+1;}
-/^bon[a-z]*/{Latin=Latin+1;}
-/^bore[a-z]*/{Latin=Latin+1;}
-/^bore[a-z]*/{Greek=Greek+1;}
-/^botan[a-z]*/{Greek=Greek+1;}
-/^bov[a-z]*/{Latin=Latin+1;}
-/^bu[a-z]*/{Latin=Latin+1;}
-/^brachi[a-z]*/{Latin=Latin+1;}
-/^brachio[a-z]*/{Latin=Latin+1;}
-/^brachi[a-z]*/{Greek=Greek+1;}
-/^brachio[a-z]*/{Greek=Greek+1;}
-/^brachion[a-z]*/{Greek=Greek+1;}
-/^brachioni[a-z]*/{Greek=Greek+1;}
-/^brachy[a-z]*/{Greek=Greek+1;}
-/^brady[a-z]*/{Greek=Greek+1;}
-/^bradys[a-z]*/{Greek=Greek+1;}
-/^branchi[a-z]*/{Greek=Greek+1;}
-/^brev[a-z]*/{Latin=Latin+1;}
-/^bromat[a-z]*/{Greek=Greek+1;}
-/^bromato[a-z]*/{Greek=Greek+1;}
-/^broma[a-z]*/{Greek=Greek+1;}
-/^bromo[a-z]*/{Greek=Greek+1;}
-/^brom[a-z]*/{Greek=Greek+1;}
-/^brom[a-z]*/{Greek=Greek+1;}
-/^bronch[a-z]*/{Greek=Greek+1;}
-/^bront[a-z]*/{Greek=Greek+1;}
-/^brot[a-z]*/{Greek=Greek+1;}
-/^bucc[a-z]*/{Latin=Latin+1;}
-/^bulb[a-z]*/{Latin=Latin+1;}
-/^bull[a-z]*/{Latin=Latin+1;}
-/^burs[a-z]*/{Latin=Latin+1;}
-/^butyr[a-z]*/{Greek=Greek+1;}
-/^byss[a-z]*/{Greek=Greek+1;}
-/^byss[a-z]*/{Greek=Greek+1;}
-/^cac[a-z]*/{Greek=Greek+1;}
-/^kak[a-z]*/{Greek=Greek+1;}
-/^cad[a-z]*/{Latin=Latin+1;}
-/[a-z]*cid[a-z]*/{Latin=Latin+1;}
-/^cas[a-z]*/{Latin=Latin+1;}
-/^caed[a-z]*/{Latin=Latin+1;}
-/[a-z]*cid[a-z]*/{Latin=Latin+1;}
-/^caes[a-z]*/{Latin=Latin+1;}
-/[a-z]*cis[a-z]*/{Latin=Latin+1;}
-/^cal[a-z]*/{Greek=Greek+1;}
-/^call[a-z]*/{Greek=Greek+1;}
-/^cal[a-z]*/{Latin=Latin+1;}
-/^cal[a-z]*/{Latin=Latin+1;}
-/^calc[a-z]*/{Greek=Greek+1;}
-/^calc[a-z]*/{Latin=Latin+1;}
-/^calv[a-z]*/{Latin=Latin+1;}
-/^calum[a-z]*/{Latin=Latin+1;}
-/^calyp[a-z]*/{Greek=Greek+1;}
-/^camer[a-z]*/{Latin=Latin+1;}
-/^camisi[a-z]*/{Latin=Latin+1;}
-/^camp[a-z]*/{Latin=Latin+1;}
-/^can[a-z]*/{Latin=Latin+1;}
-/^can[a-z]*/{Greek=Greek+1;}
-/^can[a-z]*/{Latin=Latin+1;}
-/[a-z]*cin[a-z]*/{Latin=Latin+1;}
-/^cant[a-z]*/{Latin=Latin+1;}
-/[a-z]*cent[a-z]*/{Latin=Latin+1;}
-/^cand[a-z]*/{Latin=Latin+1;}
-/^cend[a-z]*/{Latin=Latin+1;}
-/^cap[a-z]*/{Latin=Latin+1;}
-/[a-z]*cip[a-z]*/{Latin=Latin+1;}
-/^capt[a-z]*/{Latin=Latin+1;}
-/[a-z]*cept[a-z]*/{Latin=Latin+1;}
-/^capit[a-z]*/{Latin=Latin+1;}
-/[a-z]*cipit[a-z]*/{Latin=Latin+1;}
-/^capn[a-z]*/{Greek=Greek+1;}
-/^capr[a-z]*/{Latin=Latin+1;}
-/^caps[a-z]*/{Latin=Latin+1;}
-/^carbon[a-z]*/{Latin=Latin+1;}
-/^carcer[a-z]*/{Latin=Latin+1;}
-/^carcin[a-z]*/{Latin=Latin+1;}
-/^carcin[a-z]*/{Greek=Greek+1;}
-/^cardi[a-z]*/{Greek=Greek+1;}
-/^cardin[a-z]*/{Latin=Latin+1;}
-/^carn[a-z]*/{Latin=Latin+1;}
-/^carp[a-z]*/{Greek=Greek+1;}
-/^carp[a-z]*/{Greek=Greek+1;}
-/^cast[a-z]*/{Latin=Latin+1;}
-/^cata[a-z]*/{Greek=Greek+1;}
-/^cat[a-z]*/{Greek=Greek+1;}
-/^caten[a-z]*/{Latin=Latin+1;}
-/^cathar[a-z]*/{Greek=Greek+1;}
-/^caud[a-z]*/{Latin=Latin+1;}
-/^caus[a-z]*/{Latin=Latin+1;}
-/[a-z]*cus[a-z]*/{Latin=Latin+1;}
-/^caust[a-z]*/{Greek=Greek+1;}
-/^caut[a-z]*/{Greek=Greek+1;}
-/^cav[a-z]*/{Latin=Latin+1;}
-/^ced[a-z]*/{Latin=Latin+1;}
-/^cess[a-z]*/{Latin=Latin+1;}
-/^cel[a-z]*/{Latin=Latin+1;}
-/^celer[a-z]*/{Latin=Latin+1;}
-/^cen[a-z]*/{Greek=Greek+1;}
-/^caen[a-z]*/{Greek=Greek+1;}
-/^cen[a-z]*/{Greek=Greek+1;}
-/^cen[a-z]*/{Greek=Greek+1;}
-/^coen[a-z]*/{Greek=Greek+1;}
-/^cens[a-z]*/{Latin=Latin+1;}
-/^cent[a-z]*/{Latin=Latin+1;}
-/^centen[a-z]*/{Latin=Latin+1;}
-/^centesim[a-z]*/{Latin=Latin+1;}
-/^centr[a-z]*/{Greek=Greek+1;}
-/^centri[a-z]*/{Latin=Latin+1;}
-/^cephal[a-z]*/{Greek=Greek+1;}
-/^ceram[a-z]*/{Greek=Greek+1;}
-/^cerat[a-z]*/{Greek=Greek+1;}
-/^cern[a-z]*/{Latin=Latin+1;}
-/^cer[a-z]*/{Latin=Latin+1;}
-/^cervic[a-z]*/{Latin=Latin+1;}
-/^ceter[a-z]*/{Latin=Latin+1;}
-/^chaet[a-z]*/{Greek=Greek+1;}
-/^chir[a-z]*/{Greek=Greek+1;}
-/^chelon[a-z]*/{Greek=Greek+1;}
-/^chlor[a-z]*/{Greek=Greek+1;}
-/^chondr[a-z]*/{Greek=Greek+1;}
-/^chore[a-z]*/{Greek=Greek+1;}
-/^chord[a-z]*/{Greek=Greek+1;}
-/^chord[a-z]*/{Latin=Latin+1;}
-/^chro[a-z]*/{Greek=Greek+1;}
-/^chrom[a-z]*/{Greek=Greek+1;}
-/^chron[a-z]*/{Greek=Greek+1;}
-/^chrys[a-z]*/{Greek=Greek+1;}
-/^cili[a-z]*/{Latin=Latin+1;}
-/^ciner[a-z]*/{Latin=Latin+1;}
-/^cing[a-z]*/{Latin=Latin+1;}
-/^cinct[a-z]*/{Latin=Latin+1;}
-/^circ[a-z]*/{Latin=Latin+1;}
-/^circum[a-z]*/{Latin=Latin+1;}
-/^cirr[a-z]*/{Greek=Greek+1;}
-/^cirr[a-z]*/{Latin=Latin+1;}
-/^cit[a-z]*/{Latin=Latin+1;}
-/^civ[a-z]*/{Latin=Latin+1;}
-/^clad[a-z]*/{Greek=Greek+1;}
-/^clam[a-z]*/{Latin=Latin+1;}
-/^clar[a-z]*/{Latin=Latin+1;}
-/^clast[a-z]*/{Greek=Greek+1;}
-/^claud[a-z]*/{Latin=Latin+1;}
-/[a-z]*clud[a-z]*/{Latin=Latin+1;}
-/^claus[a-z]*/{Latin=Latin+1;}
-/[a-z]*clus[a-z]*/{Latin=Latin+1;}
-/^clav[a-z]*/{Greek=Greek+1;}
-/^cleist[a-z]*/{Greek=Greek+1;}
-/^cleithr[a-z]*/{Greek=Greek+1;}
-/^cle[a-z]*/{Greek=Greek+1;}
-/^clement[a-z]*/{Latin=Latin+1;}
-/^clin[a-z]*/{Greek=Greek+1;}
-/^clin[a-z]*/{Latin=Latin+1;}
-/^cochl[a-z]*/{Greek=Greek+1;}
-/^coel[a-z]*/{Greek=Greek+1;}
-/^col[a-z]*/{Latin=Latin+1;}
-/^col[a-z]*/{Latin=Latin+1;}
-/^cult[a-z]*/{Latin=Latin+1;}
-/^coll[a-z]*/{Latin=Latin+1;}
-/^coll[a-z]*/{Latin=Latin+1;}
-/^color[a-z]*/{Latin=Latin+1;}
-/^com[a-z]*/{Latin=Latin+1;}
-/^con[a-z]*/{Latin=Latin+1;}
-/^co[a-z]*/{Latin=Latin+1;}
-/^col[a-z]*/{Latin=Latin+1;}
-/^com[a-z]*/{Latin=Latin+1;}
-/^cor[a-z]*/{Latin=Latin+1;}
-/^con[a-z]*/{Greek=Greek+1;}
-/^condi[a-z]*/{Latin=Latin+1;}
-/^contra[a-z]*/{Latin=Latin+1;}
-/^copi[a-z]*/{Latin=Latin+1;}
-/^copr[a-z]*/{Greek=Greek+1;}
-/^copul[a-z]*/{Latin=Latin+1;}
-/^cor[a-z]*/{Latin=Latin+1;}
-/^cord[a-z]*/{Latin=Latin+1;}
-/^corac[a-z]*/{Greek=Greek+1;}
-/^cori[a-z]*/{Latin=Latin+1;}
-/^corn[a-z]*/{Latin=Latin+1;}
-/^coron[a-z]*/{Latin=Latin+1;}
-/^corpor[a-z]*/{Latin=Latin+1;}
-/^cortic[a-z]*/{Latin=Latin+1;}
-/^cosm[a-z]*/{Greek=Greek+1;}
-/^cosmet[a-z]*/{Greek=Greek+1;}
-/^cost[a-z]*/{Latin=Latin+1;}
-/^cotyl[a-z]*/{Greek=Greek+1;}
-/[a-z]*cracy[^a-z]/{Greek=Greek+1;}
-/[a-z]*crat[^a-z]/{Greek=Greek+1;}
-/^crani[a-z]*/{Greek=Greek+1;}
-/^crass[a-z]*/{Latin=Latin+1;}
-/^crea[a-z]*/{Latin=Latin+1;}
-/^cred[a-z]*/{Latin=Latin+1;}
-/^crepid[a-z]*/{Greek=Greek+1;}
-/^cresc[a-z]*/{Latin=Latin+1;}
-/^cribr[a-z]*/{Latin=Latin+1;}
-/^cric[a-z]*/{Greek=Greek+1;}
-/^crisp[a-z]*/{Latin=Latin+1;}
-/^crist[a-z]*/{Latin=Latin+1;}
-/^crit[a-z]*/{Greek=Greek+1;}
-/^crisi[a-z]*/{Greek=Greek+1;}
-/^cross[a-z]*/{Greek=Greek+1;}
-/^cruc[a-z]*/{Latin=Latin+1;}
-/^crur[a-z]*/{Latin=Latin+1;}
-/[a-z]*cry[^a-z]/{Latin=Latin+1;}
-/^crypt[a-z]*/{Greek=Greek+1;}
-/^cten[a-z]*/{Greek=Greek+1;}
-/^cub[a-z]*/{Greek=Greek+1;}
-/^cub[a-z]*/{Latin=Latin+1;}
-/^culin[a-z]*/{Latin=Latin+1;}
-/^culp[a-z]*/{Latin=Latin+1;}
-/^cune[a-z]*/{Latin=Latin+1;}
-/^cur[a-z]*/{Latin=Latin+1;}
-/^curr[a-z]*/{Latin=Latin+1;}
-/^curs[a-z]*/{Latin=Latin+1;}
-/^curv[a-z]*/{Latin=Latin+1;}
-/^cuspid[a-z]*/{Latin=Latin+1;}
-/^cut[a-z]*/{Latin=Latin+1;}
-/^cyan[a-z]*/{Greek=Greek+1;}
-/^cycl[a-z]*/{Greek=Greek+1;}
-/^cylind[a-z]*/{Greek=Greek+1;}
-/^cyn[a-z]*/{Greek=Greek+1;}
-/^cyst[a-z]*/{Greek=Greek+1;}
-/^cyt[a-z]*/{Greek=Greek+1;}
-/^da[a-z]*/{Greek=Greek+1;}
-/^dida[a-z]*/{Greek=Greek+1;}
-/^dacry[a-z]*/{Greek=Greek+1;}
-/^dactyl[a-z]*/{Greek=Greek+1;}
-/^dam[a-z]*/{Greek=Greek+1;}
-/^damn[a-z]*/{Latin=Latin+1;}
-/[a-z]*demn[a-z]*/{Latin=Latin+1;}
-/^de[a-z]*/{Greek=Greek+1;}
-/^de[a-z]*/{Latin=Latin+1;}
-/^deb[a-z]*/{Latin=Latin+1;}
-/^dec[a-z]*/{Greek=Greek+1;}
-/^decim[a-z]*/{Latin=Latin+1;}
-/^decor[a-z]*/{Latin=Latin+1;}
-/^del[a-z]*/{Latin=Latin+1;}
-/^delt[a-z]*/{Greek=Greek+1;}
-/^dem[a-z]*/{Greek=Greek+1;}
-/^dom[a-z]*/{Greek=Greek+1;}
-/^dem[a-z]*/{Greek=Greek+1;}
-/^den[a-z]*/{Latin=Latin+1;}
-/^dendr[a-z]*/{Greek=Greek+1;}
-/^dens[a-z]*/{Latin=Latin+1;}
-/^dent[a-z]*/{Latin=Latin+1;}
-/^der[a-z]*/{Greek=Greek+1;}
-/^despot[a-z]*/{Greek=Greek+1;}
-/^deuter[a-z]*/{Greek=Greek+1;}
-/^dexi[a-z]*/{Greek=Greek+1;}
-/^dexter[a-z]*/{Latin=Latin+1;}
-/^di[a-z]*/{Greek=Greek+1;}
-/^dia[a-z]*/{Greek=Greek+1;}
-/^diacosi[a-z]*/{Greek=Greek+1;}
-/^dic[a-z]*/{Latin=Latin+1;}
-/^dict[a-z]*/{Latin=Latin+1;}
-/^dida[a-z]*/{Greek=Greek+1;}
-/^digit[a-z]*/{Latin=Latin+1;}
-/^din[a-z]*/{Greek=Greek+1;}
-/^dipl[a-z]*/{Greek=Greek+1;}
-/^do[a-z]*/{Greek=Greek+1;}
-/^doc[a-z]*/{Latin=Latin+1;}
-/^doct[a-z]*/{Latin=Latin+1;}
-/^dodec[a-z]*/{Greek=Greek+1;}
-/^dog[a-z]*/{Greek=Greek+1;}
-/^dox[a-z]*/{Greek=Greek+1;}
-/^dol[a-z]*/{Latin=Latin+1;}
-/^dom[a-z]*/{Latin=Latin+1;}
-/^domin[a-z]*/{Latin=Latin+1;}
-/^domit[a-z]*/{Latin=Latin+1;}
-/^don[a-z]*/{Latin=Latin+1;}
-/^dorm[a-z]*/{Latin=Latin+1;}
-/^dors[a-z]*/{Latin=Latin+1;}
-/^dra[a-z]*/{Greek=Greek+1;}
-/^drach[a-z]*/{Greek=Greek+1;}
-/^dram[a-z]*/{Greek=Greek+1;}
-/^drom[a-z]*/{Greek=Greek+1;}
-/^dros[a-z]*/{Greek=Greek+1;}
-/^dry[a-z]*/{Greek=Greek+1;}
-/^du[a-z]*/{Latin=Latin+1;}
-/^dub[a-z]*/{Latin=Latin+1;}
-/^duc[a-z]*/{Latin=Latin+1;}
-/^duct[a-z]*/{Latin=Latin+1;}
-/^dulc[a-z]*/{Latin=Latin+1;}
-/^dur[a-z]*/{Latin=Latin+1;}
-/^dy[a-z]*/{Greek=Greek+1;}
-/^dyna[a-z]*/{Greek=Greek+1;}
-/^dys[a-z]*/{Greek=Greek+1;}
-/^ec[a-z]*/{Greek=Greek+1;}
-/^ecclesi[a-z]*/{Greek=Greek+1;}
-/^eco[a-z]*/{Greek=Greek+1;}
-/^ecto[a-z]*/{Greek=Greek+1;}
-/^ed[a-z]*/{Latin=Latin+1;}
-/^es[a-z]*/{Latin=Latin+1;}
-/^eg[a-z]*/{Greek=Greek+1;}
-/^ego[a-z]*/{Latin=Latin+1;Greek=Greek+1;}
-/^eiren[a-z]*/{Greek=Greek+1;}
-/^electr[a-z]*/{Greek=Greek+1;}
-/^elem[a-z]*/{Greek=Greek+1;}
-/^alm[a-z]*/{Greek=Greek+1;}
-/^em[a-z]*/{Latin=Latin+1;}
-/^empt[a-z]*/{Latin=Latin+1;}
-/^eme[a-z]*/{Greek=Greek+1;}
-/^emul[a-z]*/{Latin=Latin+1;}
-/^en[a-z]*/{Greek=Greek+1;}
-/^el[a-z]*/{Greek=Greek+1;}
-/^em[a-z]*/{Greek=Greek+1;}
-/^enanti[a-z]*/{Greek=Greek+1;}
-/^encephal[a-z]*/{Greek=Greek+1;}
-/^endo[a-z]*/{Greek=Greek+1;}
-/^engy[a-z]*/{Greek=Greek+1;}
-/^ennea[a-z]*/{Greek=Greek+1;}
-/^ens[a-z]*/{Latin=Latin+1;}
-/^eo[a-z]*/{Greek=Greek+1;}
-/^eos[a-z]*/{Greek=Greek+1;}
-/^ep[a-z]*/{Greek=Greek+1;}
-/^epi[a-z]*/{Greek=Greek+1;}
-/^equ[a-z]*/{Latin=Latin+1;}
-/[a-z]*iqu[a-z]*/{Latin=Latin+1;}
-/^equ[a-z]*/{Latin=Latin+1;}
-/^ere[a-z]*/{Greek=Greek+1;}
-/^erg[a-z]*/{Greek=Greek+1;}
-/^org[a-z]*/{Greek=Greek+1;}
-/^urg[a-z]*/{Greek=Greek+1;}
-/^erot[a-z]*/{Greek=Greek+1;}
-/^err[a-z]*/{Latin=Latin+1;}
-/^erythr[a-z]*/{Greek=Greek+1;}
-/^eso[a-z]*/{Greek=Greek+1;}
-/^eth[a-z]*/{Greek=Greek+1;}
-/^ethm[a-z]*/{Greek=Greek+1;}
-/^ethn[a-z]*/{Greek=Greek+1;}
-/^etym[a-z]*/{Greek=Greek+1;}
-/^eu[a-z]*/{Greek=Greek+1;}
-/^eur[a-z]*/{Greek=Greek+1;}
-/^ex[a-z]*/{Latin=Latin+1;}
-/^e[a-z]*/{Latin=Latin+1;}
-/^ef[a-z]*/{Latin=Latin+1;}
-/^exo[a-z]*/{Greek=Greek+1;}
-/^extra[a-z]*/{Latin=Latin+1;}
-/^extrem[a-z]*/{Latin=Latin+1;}
-/^fa[a-z]*/{Latin=Latin+1;}
-/^fat[a-z]*/{Latin=Latin+1;}
-/^fab[a-z]*/{Latin=Latin+1;}
-/^fac[a-z]*/{Latin=Latin+1;}
-/^fact[a-z]*/{Latin=Latin+1;}
-/[a-z]*fect[a-z]*/{Latin=Latin+1;}
-/[a-z]*fic[a-z]*/{Latin=Latin+1;}
-/^falc[a-z]*/{Latin=Latin+1;}
-/^fall[a-z]*/{Latin=Latin+1;}
-/^fallac[a-z]*/{Latin=Latin+1;}
-/^fals[a-z]*/{Latin=Latin+1;}
-/^famili[a-z]*/{Latin=Latin+1;}
-/^fasc[a-z]*/{Latin=Latin+1;}
-/^fatu[a-z]*/{Latin=Latin+1;}
-/^feder[a-z]*/{Latin=Latin+1;}
-/^fel[a-z]*/{Latin=Latin+1;}
-/^felic[a-z]*/{Latin=Latin+1;}
-/^fell[a-z]*/{Latin=Latin+1;}
-/^femin[a-z]*/{Latin=Latin+1;}
-/^femor[a-z]*/{Latin=Latin+1;}
-/^fend[a-z]*/{Latin=Latin+1;}
-/^fens[a-z]*/{Latin=Latin+1;}
-/^fenestr[a-z]*/{Latin=Latin+1;}
-/^fer[a-z]*/{Latin=Latin+1;}
-/^ferv[a-z]*/{Latin=Latin+1;}
-/^feroc[a-z]*/{Latin=Latin+1;}
-/^ferr[a-z]*/{Latin=Latin+1;}
-/^fet[a-z]*/{Latin=Latin+1;}
-/^fic[a-z]*/{Latin=Latin+1;}
-/^fid[a-z]*/{Latin=Latin+1;}
-/^fis[a-z]*/{Latin=Latin+1;}
-/^fig[a-z]*/{Latin=Latin+1;}
-/^fing[a-z]*/{Latin=Latin+1;}
-/^fict[a-z]*/{Latin=Latin+1;}
-/^fil[a-z]*/{Latin=Latin+1;}
-/^fili[a-z]*/{Latin=Latin+1;}
-/^fin[a-z]*/{Latin=Latin+1;}
-/^find[a-z]*/{Latin=Latin+1;}
-/^fiss[a-z]*/{Latin=Latin+1;}
-/^firm[a-z]*/{Latin=Latin+1;}
-/^fistul[a-z]*/{Latin=Latin+1;}
-/^fix[a-z]*/{Latin=Latin+1;}
-/^fl[a-z]*/{Latin=Latin+1;}
-/^fla[a-z]*/{Latin=Latin+1;}
-/^flacc[a-z]*/{Latin=Latin+1;}
-/^flav[a-z]*/{Latin=Latin+1;}
-/^flect[a-z]*/{Latin=Latin+1;}
-/^flex[a-z]*/{Latin=Latin+1;}
-/^flig[a-z]*/{Latin=Latin+1;}
-/^flict[a-z]*/{Latin=Latin+1;}
-/^flor[a-z]*/{Latin=Latin+1;}
-/^flu[a-z]*/{Latin=Latin+1;}
-/^fluv[a-z]*/{Latin=Latin+1;}
-/^flux[a-z]*/{Latin=Latin+1;}
-/^foc[a-z]*/{Latin=Latin+1;}
-/^fod[a-z]*/{Latin=Latin+1;}
-/^foss[a-z]*/{Latin=Latin+1;}
-/^foen[a-z]*/{Latin=Latin+1;}
-/^foli[a-z]*/{Latin=Latin+1;}
-/^font[a-z]*/{Latin=Latin+1;}
-/^for[a-z]*/{Latin=Latin+1;}
-/^form[a-z]*/{Latin=Latin+1;}
-/^formic[a-z]*/{Latin=Latin+1;}
-/^fornic[a-z]*/{Latin=Latin+1;}
-/^fort[a-z]*/{Latin=Latin+1;}
-/^fove[a-z]*/{Latin=Latin+1;}
-/^frag[a-z]*/{Latin=Latin+1;}
-/^frang[a-z]*/{Latin=Latin+1;}
-/[a-z]*fring[a-z]*/{Latin=Latin+1;}
-/^fract[a-z]*/{Latin=Latin+1;}
-/^frater[a-z]*/{Latin=Latin+1;}
-/^fratr[a-z]*/{Latin=Latin+1;}
-/^fric[a-z]*/{Latin=Latin+1;}
-/^frict[a-z]*/{Latin=Latin+1;}
-/^frig[a-z]*/{Latin=Latin+1;}
-/^front[a-z]*/{Latin=Latin+1;}
-/^fruct[a-z]*/{Latin=Latin+1;}
-/^frug[a-z]*/{Latin=Latin+1;}
-/^fug[a-z]*/{Latin=Latin+1;}
-/^fugit[a-z]*/{Latin=Latin+1;}
-/^fum[a-z]*/{Latin=Latin+1;}
-/^fund[a-z]*/{Latin=Latin+1;}
-/^fund[a-z]*/{Latin=Latin+1;}
-/^fus[a-z]*/{Latin=Latin+1;}
-/^fulmin[a-z]*/{Latin=Latin+1;}
-/^fung[a-z]*/{Latin=Latin+1;}
-/^funct[a-z]*/{Latin=Latin+1;}
-/^fur[a-z]*/{Latin=Latin+1;}
-/^furt[a-z]*/{Latin=Latin+1;}
-/^furc[a-z]*/{Latin=Latin+1;}
-/^fusc[a-z]*/{Latin=Latin+1;}
-/^galact[a-z]*/{Greek=Greek+1;}
-/^gam[a-z]*/{Greek=Greek+1;}
-/^gamb[a-z]*/{Latin=Latin+1;}
-/^gamm[a-z]*/{Greek=Greek+1;}
-/^gar[a-z]*/{Latin=Latin+1;}
-/^gargal[a-z]*/{Greek=Greek+1;}
-/^gargar[a-z]*/{Greek=Greek+1;}
-/^gastr[a-z]*/{Greek=Greek+1;}
-/^ge[a-z]*/{Greek=Greek+1;}
-/^geo[a-z]*/{Greek=Greek+1;}
-/^geiton[a-z]*/{Greek=Greek+1;}
-/^gel[a-z]*/{Latin=Latin+1;}
-/^gen[a-z]*/{Greek=Greek+1;}
-/^gon[a-z]*/{Greek=Greek+1;}
-/^gen[a-z]*/{Latin=Latin+1;}
-/^gephyr[a-z]*/{Greek=Greek+1;}
-/^ger[a-z]*/{Greek=Greek+1;}
-/^ger[a-z]*/{Latin=Latin+1;}
-/^gest[a-z]*/{Latin=Latin+1;}
-/^geran[a-z]*/{Greek=Greek+1;}
-/^germ[a-z]*/{Latin=Latin+1;}
-/^geu[a-z]*/{Greek=Greek+1;}
-/^glabr[a-z]*/{Latin=Latin+1;}
-/^glaci[a-z]*/{Latin=Latin+1;}
-/^gladi[a-z]*/{Latin=Latin+1;}
-/^glauc[a-z]*/{Greek=Greek+1;}
-/^glia[a-z]*/{Greek=Greek+1;}
-/^glob[a-z]*/{Latin=Latin+1;}
-/^glori[a-z]*/{Latin=Latin+1;}
-/^gloss[a-z]*/{Greek=Greek+1;}
-/^glot[a-z]*/{Greek=Greek+1;}
-/^glut[a-z]*/{Greek=Greek+1;}
-/^glutin[a-z]*/{Latin=Latin+1;}
-/^glyc[a-z]*/{Greek=Greek+1;}
-/^glyph[a-z]*/{Greek=Greek+1;}
-/^gnath[a-z]*/{Greek=Greek+1;}
-/^gno[a-z]*/{Greek=Greek+1;}
-/^gnosc[a-z]*/{Latin=Latin+1;}
-/[a-z]*gnit[a-z]*/{Latin=Latin+1;}
-/^gon[a-z]*/{Greek=Greek+1;}
-/^grad[a-z]*/{Latin=Latin+1;}
-/^gred[a-z]*/{Latin=Latin+1;}
-/^gress[a-z]*/{Latin=Latin+1;}
-/^gramm[a-z]*/{Greek=Greek+1;}
-/^gran[a-z]*/{Latin=Latin+1;}
-/^grand[a-z]*/{Latin=Latin+1;}
-/^graph[a-z]*/{Greek=Greek+1;}
-/^grat[a-z]*/{Latin=Latin+1;}
-/^grav[a-z]*/{Latin=Latin+1;}
-/^greg[a-z]*/{Latin=Latin+1;}
-/^gryp[a-z]*/{Greek=Greek+1;}
-/^gubern[a-z]*/{Latin=Latin+1;}
-/^gust[a-z]*/{Latin=Latin+1;}
-/^gutt[a-z]*/{Latin=Latin+1;}
-/^guttur[a-z]*/{Latin=Latin+1;}
-/^gymn[a-z]*/{Greek=Greek+1;}
-/^gyn[a-z]*/{Greek=Greek+1;}
-/^gynaec[a-z]*/{Greek=Greek+1;}
-/^gyr[a-z]*/{Greek=Greek+1;}
-/^gyrin[a-z]*/{Greek=Greek+1;}
-/^hab[a-z]*/{Latin=Latin+1;}
-/[a-z]*hib[a-z]*/{Latin=Latin+1;}
-/^habit[a-z]*/{Latin=Latin+1;}
-/[a-z]*hibit[a-z]*/{Latin=Latin+1;}
-/^hadr[a-z]*/{Greek=Greek+1;}
-/^haem[a-z]*/{Greek=Greek+1;}
-/^hem[a-z]*/{Greek=Greek+1;}
-/^haere[a-z]*/{Greek=Greek+1;}
-/^hal[a-z]*/{Greek=Greek+1;}
-/^hal[a-z]*/{Latin=Latin+1;}
-/[a-z]*hel[a-z]*/{Latin=Latin+1;}
-/^hapl[a-z]*/{Greek=Greek+1;}
-/^haur[a-z]*/{Latin=Latin+1;}
-/^haust[a-z]*/{Latin=Latin+1;}
-/^heb[a-z]*/{Greek=Greek+1;}
-/^hed[a-z]*/{Greek=Greek+1;}
-/^hed[a-z]*/{Greek=Greek+1;}
-/^heg[a-z]*/{Greek=Greek+1;}
-/^heli[a-z]*/{Greek=Greek+1;}
-/^helic[a-z]*/{Greek=Greek+1;}
-/^hell[a-z]*/{Greek=Greek+1;}
-/^helminth[a-z]*/{Greek=Greek+1;}
-/^helot[a-z]*/{Greek=Greek+1;}
-/^hem[a-z]*/{Greek=Greek+1;}
-/^hemer[a-z]*/{Greek=Greek+1;}
-/^hemer[a-z]*/{Greek=Greek+1;}
-/^hemi[a-z]*/{Greek=Greek+1;}
-/^hemo[a-z]*/{Greek=Greek+1;}
-/^hen[a-z]*/{Greek=Greek+1;}
-/^hendec[a-z]*/{Greek=Greek+1;}
-/^hepat[a-z]*/{Greek=Greek+1;}
-/^hept[a-z]*/{Greek=Greek+1;}
-/^her[a-z]*/{Latin=Latin+1;}
-/^heir[a-z]*/{Latin=Latin+1;}
-/^here[a-z]*/{Latin=Latin+1;}
-/^hes[a-z]*/{Latin=Latin+1;}
-/^herald[a-z]*/{Latin=Latin+1;}
-/^herb[a-z]*/{Latin=Latin+1;}
-/^heres[a-z]*/{Greek=Greek+1;}
-/^heret[a-z]*/{Greek=Greek+1;}
-/^herm[a-z]*/{Greek=Greek+1;}
-/^hero[a-z]*/{Greek=Greek+1;}
-/^herp[a-z]*/{Greek=Greek+1;}
-/^heter[a-z]*/{Greek=Greek+1;}
-/^heur[a-z]*/{Greek=Greek+1;}
-/^hex[a-z]*/{Greek=Greek+1;}
-/^hi[a-z]*/{Latin=Latin+1;}
-/^hibern[a-z]*/{Latin=Latin+1;}
-/^hidrot[a-z]*/{Greek=Greek+1;}
-/^hiem[a-z]*/{Latin=Latin+1;}
-/^hier[a-z]*/{Greek=Greek+1;}
-/^hipp[a-z]*/{Greek=Greek+1;}
-/^hirsut[a-z]*/{Latin=Latin+1;}
-/^hispid[a-z]*/{Latin=Latin+1;}
-/^histri[a-z]*/{Latin=Latin+1;}
-/^hod[a-z]*/{Greek=Greek+1;}
-/^hol[a-z]*/{Greek=Greek+1;}
-/^hom[a-z]*/{Greek=Greek+1;}
-/^homal[a-z]*/{Greek=Greek+1;}
-/^home[a-z]*/{Greek=Greek+1;}
-/^homin[a-z]*/{Latin=Latin+1;}
-/^homoe[a-z]*/{Greek=Greek+1;}
-/^home[a-z]*/{Greek=Greek+1;}
-/^honor[a-z]*/{Latin=Latin+1;}
-/^hor[a-z]*/{Greek=Greek+1;}
-/^hor[a-z]*/{Greek=Greek+1;}
-/^horm[a-z]*/{Greek=Greek+1;}
-/^hort[a-z]*/{Latin=Latin+1;}
-/^hospit[a-z]*/{Latin=Latin+1;}
-/^host[a-z]*/{Latin=Latin+1;}
-/^hum[a-z]*/{Latin=Latin+1;}
-/^hyal[a-z]*/{Greek=Greek+1;}
-/^hybr[a-z]*/{Greek=Greek+1;}
-/^hydn[a-z]*/{Greek=Greek+1;}
-/^hydr[a-z]*/{Greek=Greek+1;}
-/^hygie[a-z]*/{Greek=Greek+1;}
-/^hygr[a-z]*/{Greek=Greek+1;}
-/^hymen[a-z]*/{Greek=Greek+1;}
-/^hyo[a-z]*/{Greek=Greek+1;}
-/^hyp[a-z]*/{Greek=Greek+1;}
-/^hyper[a-z]*/{Greek=Greek+1;}
-/^hyph[a-z]*/{Greek=Greek+1;}
-/^hypn[a-z]*/{Greek=Greek+1;}
-/^hyps[a-z]*/{Greek=Greek+1;}
-/^hys[a-z]*/{Greek=Greek+1;}
-/^hyster[a-z]*/{Greek=Greek+1;}
-/^hyster[a-z]*/{Greek=Greek+1;}
-/^i[a-z]*/{Greek=Greek+1;}
-/^iatr[a-z]*/{Greek=Greek+1;}
-/^ichthy[a-z]*/{Greek=Greek+1;}
-/^icos[a-z]*/{Greek=Greek+1;}
-/^icter[a-z]*/{Greek=Greek+1;}
-/^id[a-z]*/{Greek=Greek+1;}
-/^ide[a-z]*/{Greek=Greek+1;}
-/^idi[a-z]*/{Greek=Greek+1;}
-/^ign[a-z]*/{Latin=Latin+1;}
-/^imagin[a-z]*/{Latin=Latin+1;}
-/^imbr[a-z]*/{Latin=Latin+1;}
-/^in[a-z]*/{Greek=Greek+1;}
-/^in[a-z]*/{Latin=Latin+1;}
-/^il[a-z]*/{Latin=Latin+1;}
-/^im[a-z]*/{Latin=Latin+1;}
-/^in[a-z]*/{Latin=Latin+1;}
-/^il[a-z]*/{Latin=Latin+1;}
-/^im[a-z]*/{Latin=Latin+1;}
-/^ir[a-z]*/{Latin=Latin+1;}
-/^inan[a-z]*/{Latin=Latin+1;}
-/^infra[a-z]*/{Latin=Latin+1;}
-/^insul[a-z]*/{Latin=Latin+1;}
-/^inter[a-z]*/{Latin=Latin+1;}
-/^intra[a-z]*/{Latin=Latin+1;}
-/^irasc[a-z]*/{Latin=Latin+1;}
-/^irat[a-z]*/{Latin=Latin+1;}
-/^irid[a-z]*/{Latin=Latin+1;}
-/^is[a-z]*/{Greek=Greek+1;}
-/^iso[a-z]*/{Greek=Greek+1;}
-/^ischi[a-z]*/{Greek=Greek+1;}
-/^iter[a-z]*/{Latin=Latin+1;}
-/^itiner[a-z]*/{Latin=Latin+1;}
-/^jac[a-z]*/{Latin=Latin+1;}
-/^jac[a-z]*/{Latin=Latin+1;}
-/[a-z]*ject[a-z]*/{Latin=Latin+1;}
-/^janu[a-z]*/{Latin=Latin+1;}
-/^joc[a-z]*/{Latin=Latin+1;}
-/^judic[a-z]*/{Latin=Latin+1;}
-/^jug[a-z]*/{Latin=Latin+1;}
-/^jung[a-z]*/{Latin=Latin+1;}
-/^junct[a-z]*/{Latin=Latin+1;}
-/^junior[a-z]*/{Latin=Latin+1;}
-/^jus[a-z]*/{Latin=Latin+1;}
-/^jur[a-z]*/{Latin=Latin+1;}
-/^juv[a-z]*/{Latin=Latin+1;}
-/^jut[a-z]*/{Latin=Latin+1;}
-/^juven[a-z]*/{Latin=Latin+1;}
-/^juxta[a-z]*/{Latin=Latin+1;}
-/^kilo[a-z]*/{Greek=Greek+1;}
-/^kine[a-z]*/{Greek=Greek+1;}
-/^cine[a-z]*/{Greek=Greek+1;}
-/^klept[a-z]*/{Greek=Greek+1;}
-/^kudo[a-z]*/{Greek=Greek+1;}
-/^lab[a-z]*/{Greek=Greek+1;}
-/^lep[a-z]*/{Greek=Greek+1;}
-/^lab[a-z]*/{Latin=Latin+1;}
-/^laps[a-z]*/{Latin=Latin+1;}
-/^labi[a-z]*/{Latin=Latin+1;}
-/^labor[a-z]*/{Latin=Latin+1;}
-/^lacer[a-z]*/{Latin=Latin+1;}
-/^lacrim[a-z]*/{Latin=Latin+1;}
-/^lact[a-z]*/{Latin=Latin+1;}
-/^lamin[a-z]*/{Latin=Latin+1;}
-/^lamp[a-z]*/{Greek=Greek+1;}
-/^lapid[a-z]*/{Latin=Latin+1;}
-/^larg[a-z]*/{Latin=Latin+1;}
-/^larv[a-z]*/{Latin=Latin+1;}
-/^lat[a-z]*/{Latin=Latin+1;}
-/^later[a-z]*/{Latin=Latin+1;}
-/^laud[a-z]*/{Latin=Latin+1;}
-/^laus[a-z]*/{Latin=Latin+1;}
-/^lav[a-z]*/{Latin=Latin+1;}
-/^lax[a-z]*/{Latin=Latin+1;}
-/^lecith[a-z]*/{Greek=Greek+1;}
-/^led[a-z]*/{Latin=Latin+1;}
-/^les[a-z]*/{Latin=Latin+1;}
-/[a-z]*lid[a-z]*/{Latin=Latin+1;}
-/[a-z]*lis[a-z]*/{Latin=Latin+1;}
-/^leg[a-z]*/{Greek=Greek+1;}
-/^leg[a-z]*/{Latin=Latin+1;}
-/^lect[a-z]*/{Latin=Latin+1;}
-/^leg[a-z]*/{Latin=Latin+1;}
-/^leg[a-z]*/{Latin=Latin+1;}
-/^lei[a-z]*/{Greek=Greek+1;}
-/^lekan[a-z]*/{Greek=Greek+1;}
-/^leni[a-z]*/{Latin=Latin+1;}
-/^leon[a-z]*/{Latin=Latin+1;}
-/^lep[a-z]*/{Greek=Greek+1;}
-/^leuc[a-z]*/{Greek=Greek+1;}
-/^leuk[a-z]*/{Greek=Greek+1;}
-/^lev[a-z]*/{Latin=Latin+1;}
-/^liber[a-z]*/{Latin=Latin+1;}
-/^libr[a-z]*/{Latin=Latin+1;}
-/^lig[a-z]*/{Latin=Latin+1;}
-/^limac[a-z]*/{Latin=Latin+1;}
-/^limpa[a-z]*/{Latin=Latin+1;}
-/^line[a-z]*/{Latin=Latin+1;}
-/^line[a-z]*/{Latin=Latin+1;}
-/^lingu[a-z]*/{Latin=Latin+1;}
-/^linqu[a-z]*/{Latin=Latin+1;}
-/^lict[a-z]*/{Latin=Latin+1;}
-/^lip[a-z]*/{Greek=Greek+1;}
-/^liqu[a-z]*/{Latin=Latin+1;}
-/^lit[a-z]*/{Greek=Greek+1;}
-/^liter[a-z]*/{Latin=Latin+1;}
-/^lith[a-z]*/{Greek=Greek+1;}
-/^loc[a-z]*/{Latin=Latin+1;}
-/^log[a-z]*/{Greek=Greek+1;}
-/[a-z]*logy[^a-z]/{Greek=Greek+1;}
-/^long[a-z]*/{Latin=Latin+1;}
-/^loqu[a-z]*/{Latin=Latin+1;}
-/^locut[a-z]*/{Latin=Latin+1;}
-/^luc[a-z]*/{Latin=Latin+1;}
-/^lud[a-z]*/{Latin=Latin+1;}
-/^lus[a-z]*/{Latin=Latin+1;}
-/^lumin[a-z]*/{Latin=Latin+1;}
-/^lu[a-z]*/{Latin=Latin+1;}
-/^luv[a-z]*/{Latin=Latin+1;}
-/^lut[a-z]*/{Latin=Latin+1;}
-/^lun[a-z]*/{Latin=Latin+1;}
-/^lut[a-z]*/{Latin=Latin+1;}
-/^ly[a-z]*/{Greek=Greek+1;}
-/^lysi[a-z]*/{Greek=Greek+1;}
-/^lyt[a-z]*/{Greek=Greek+1;}
-/^macer[a-z]*/{Latin=Latin+1;}
-/^macr[a-z]*/{Greek=Greek+1;}
-/^magn[a-z]*/{Latin=Latin+1;}
-/^magnet[a-z]*/{Greek=Greek+1;}
-/^maj[a-z]*/{Latin=Latin+1;}
-/^mal[a-z]*/{Latin=Latin+1;}
-/^mamm[a-z]*/{Latin=Latin+1;}
-/^man[a-z]*/{Greek=Greek+1;}
-/^mant[a-z]*/{Greek=Greek+1;}
-/^man[a-z]*/{Latin=Latin+1;}
-/^man[a-z]*/{Latin=Latin+1;}
-/^man[a-z]*/{Latin=Latin+1;}
-/^manu[a-z]*/{Latin=Latin+1;}
-/^mand[a-z]*/{Latin=Latin+1;}
-/[a-z]*mend[a-z]*/{Latin=Latin+1;}
-/^mar[a-z]*/{Latin=Latin+1;}
-/^mas[a-z]*/{Latin=Latin+1;}
-/^mater[a-z]*/{Latin=Latin+1;}
-/^matr[a-z]*/{Latin=Latin+1;}
-/^maxim[a-z]*/{Latin=Latin+1;}
-/^mechan[a-z]*/{Greek=Greek+1;}
-/^medi[a-z]*/{Latin=Latin+1;}
-/[a-z]*midi[a-z]*/{Latin=Latin+1;}
-/^meg[a-z]*/{Greek=Greek+1;}
-/^megal[a-z]*/{Greek=Greek+1;}
-/^mei[a-z]*/{Greek=Greek+1;}
-/^melan[a-z]*/{Greek=Greek+1;}
-/^melior[a-z]*/{Latin=Latin+1;}
-/^meliss[a-z]*/{Greek=Greek+1;}
-/^mell[a-z]*/{Latin=Latin+1;}
-/^memor[a-z]*/{Latin=Latin+1;}
-/^men[a-z]*/{Greek=Greek+1;}
-/^mening[a-z]*/{Greek=Greek+1;}
-/^mend[a-z]*/{Latin=Latin+1;}
-/^menstru[a-z]*/{Latin=Latin+1;}
-/^mensur[a-z]*/{Latin=Latin+1;}
-/^ment[a-z]*/{Latin=Latin+1;}
-/^mer[a-z]*/{Greek=Greek+1;}
-/^merc[a-z]*/{Latin=Latin+1;}
-/^merge[a-z]*/{Latin=Latin+1;}
-/^mers[a-z]*/{Latin=Latin+1;}
-/^mes[a-z]*/{Greek=Greek+1;}
-/^met[a-z]*/{Greek=Greek+1;}
-/^meta[a-z]*/{Greek=Greek+1;}
-/^metall[a-z]*/{Greek=Greek+1;}
-/^meter[a-z]*/{Greek=Greek+1;}
-/^metr[a-z]*/{Greek=Greek+1;}
-/^metr[a-z]*/{Greek=Greek+1;}
-/^mic[a-z]*/{Latin=Latin+1;}
-/^micr[a-z]*/{Greek=Greek+1;}
-/^migr[a-z]*/{Latin=Latin+1;}
-/^milit[a-z]*/{Latin=Latin+1;}
-/^mill[a-z]*/{Latin=Latin+1;}
-/^millen[a-z]*/{Latin=Latin+1;}
-/^mim[a-z]*/{Greek=Greek+1;}
-/^min[a-z]*/{Latin=Latin+1;}
-/^min[a-z]*/{Latin=Latin+1;}
-/^mina[a-z]*/{Latin=Latin+1;}
-/^minth[a-z]*/{Greek=Greek+1;}
-/^mir[a-z]*/{Latin=Latin+1;}
-/^mis[a-z]*/{Greek=Greek+1;}
-/^misc[a-z]*/{Latin=Latin+1;}
-/^mixt[a-z]*/{Latin=Latin+1;}
-/^miser[a-z]*/{Latin=Latin+1;}
-/^mit[a-z]*/{Latin=Latin+1;}
-/^miss[a-z]*/{Latin=Latin+1;}
-/^mit[a-z]*/{Greek=Greek+1;}
-/^mn[a-z]*/{Greek=Greek+1;}
-/^mne[a-z]*/{Greek=Greek+1;}
-/^mod[a-z]*/{Latin=Latin+1;}
-/^mol[a-z]*/{Latin=Latin+1;}
-/^moll[a-z]*/{Latin=Latin+1;}
-/^mon[a-z]*/{Greek=Greek+1;}
-/^mon[a-z]*/{Latin=Latin+1;}
-/^monil[a-z]*/{Latin=Latin+1;}
-/^monstra[a-z]*/{Latin=Latin+1;}
-/^mont[a-z]*/{Latin=Latin+1;}
-/^mor[a-z]*/{Greek=Greek+1;}
-/^mor[a-z]*/{Latin=Latin+1;}
-/^mor[a-z]*/{Latin=Latin+1;}
-/^mord[a-z]*/{Latin=Latin+1;}
-/^morph[a-z]*/{Greek=Greek+1;}
-/^mort[a-z]*/{Latin=Latin+1;}
-/^mov[a-z]*/{Latin=Latin+1;}
-/^mot[a-z]*/{Latin=Latin+1;}
-/^mut[a-z]*/{Latin=Latin+1;}
-/^mulg[a-z]*/{Latin=Latin+1;}
-/^muls[a-z]*/{Latin=Latin+1;}
-/^multi[a-z]*/{Latin=Latin+1;}
-/^mund[a-z]*/{Latin=Latin+1;}
-/^mur[a-z]*/{Latin=Latin+1;}
-/^mus[a-z]*/{Greek=Greek+1;}
-/^mus[a-z]*/{Latin=Latin+1;}
-/^musc[a-z]*/{Latin=Latin+1;}
-/^mut[a-z]*/{Latin=Latin+1;}
-/^my[a-z]*/{Greek=Greek+1;}
-/^my[a-z]*/{Greek=Greek+1;}
-/^mycet[a-z]*/{Greek=Greek+1;}
-/^mydr[a-z]*/{Greek=Greek+1;}
-/^myel[a-z]*/{Greek=Greek+1;}
-/^myl[a-z]*/{Greek=Greek+1;}
-/^myri[a-z]*/{Greek=Greek+1;}
-/^myrmec[a-z]*/{Greek=Greek+1;}
-/^mys[a-z]*/{Greek=Greek+1;}
-/^myth[a-z]*/{Greek=Greek+1;}
-/^myx[a-z]*/{Greek=Greek+1;}
-/^myz[a-z]*/{Greek=Greek+1;}
-/^nap[a-z]*/{Latin=Latin+1;}
-/^nar[a-z]*/{Latin=Latin+1;}
-/^narc[a-z]*/{Greek=Greek+1;}
-/^narr[a-z]*/{Latin=Latin+1;}
-/^nas[a-z]*/{Latin=Latin+1;}
-/^nasc[a-z]*/{Latin=Latin+1;}
-/^nat[a-z]*/{Latin=Latin+1;}
-/^naut[a-z]*/{Greek=Greek+1;}
-/^nav[a-z]*/{Latin=Latin+1;}
-/^ne[a-z]*/{Greek=Greek+1;}
-/^ne[a-z]*/{Greek=Greek+1;}
-/^neo[a-z]*/{Greek=Greek+1;}
-/^neb[a-z]*/{Latin=Latin+1;}
-/^nub[a-z]*/{Latin=Latin+1;}
-/^necr[a-z]*/{Greek=Greek+1;}
-/^nect[a-z]*/{Greek=Greek+1;}
-/^nect[a-z]*/{Latin=Latin+1;}
-/^nex[a-z]*/{Latin=Latin+1;}
-/^neg[a-z]*/{Latin=Latin+1;}
-/^nem[a-z]*/{Greek=Greek+1;}
-/^nom[a-z]*/{Greek=Greek+1;}
-/^nemat[a-z]*/{Greek=Greek+1;}
-/^nemor[a-z]*/{Latin=Latin+1;}
-/^nephr[a-z]*/{Greek=Greek+1;}
-/^nerv[a-z]*/{Latin=Latin+1;}
-/^nes[a-z]*/{Greek=Greek+1;}
-/^neur[a-z]*/{Greek=Greek+1;}
-/^nict[a-z]*/{Latin=Latin+1;}
-/^nigr[a-z]*/{Latin=Latin+1;}
-/^nihil[a-z]*/{Latin=Latin+1;}
-/^niv[a-z]*/{Latin=Latin+1;}
-/^noc[a-z]*/{Latin=Latin+1;}
-/^noct[a-z]*/{Latin=Latin+1;}
-/^nod[a-z]*/{Latin=Latin+1;}
-/^nom[a-z]*/{Greek=Greek+1;}
-/^nomad[a-z]*/{Greek=Greek+1;}
-/^nomen[a-z]*/{Latin=Latin+1;}
-/^nomin[a-z]*/{Latin=Latin+1;}
-/^non[a-z]*/{Latin=Latin+1;}
-/^non[a-z]*/{Latin=Latin+1;}
-/^nonagen[a-z]*/{Latin=Latin+1;}
-/^nonagesim[a-z]*/{Latin=Latin+1;}
-/^norm[a-z]*/{Latin=Latin+1;}
-/^not[a-z]*/{Greek=Greek+1;}
-/^not[a-z]*/{Greek=Greek+1;}
-/^not[a-z]*/{Latin=Latin+1;}
-/^noth[a-z]*/{Greek=Greek+1;}
-/^nov[a-z]*/{Latin=Latin+1;}
-/^nov[a-z]*/{Latin=Latin+1;}
-/^noven[a-z]*/{Latin=Latin+1;}
-/^novendec[a-z]*/{Latin=Latin+1;}
-/^nox[a-z]*/{Latin=Latin+1;}
-/^nu[a-z]*/{Latin=Latin+1;}
-/^nub[a-z]*/{Latin=Latin+1;}
-/^nupt[a-z]*/{Latin=Latin+1;}
-/^nuc[a-z]*/{Latin=Latin+1;}
-/^nuch[a-z]*/{Latin=Latin+1;}
-/^nud[a-z]*/{Latin=Latin+1;}
-/^null[a-z]*/{Latin=Latin+1;}
-/^numer[a-z]*/{Latin=Latin+1;}
-/^nunci[a-z]*/{Latin=Latin+1;}
-/^nutri[a-z]*/{Latin=Latin+1;}
-/^nyct[a-z]*/{Greek=Greek+1;}
-/^nyst[a-z]*/{Greek=Greek+1;}
-/^ob[a-z]*/{Latin=Latin+1;}
-/^o[a-z]*/{Latin=Latin+1;}
-/^oc[a-z]*/{Latin=Latin+1;}
-/^of[a-z]*/{Latin=Latin+1;}
-/^og[a-z]*/{Latin=Latin+1;}
-/^op[a-z]*/{Latin=Latin+1;}
-/^os[a-z]*/{Latin=Latin+1;}
-/^obel[a-z]*/{Greek=Greek+1;}
-/^obol[a-z]*/{Greek=Greek+1;}
-/^ocean[a-z]*/{Greek=Greek+1;}
-/^ochl[a-z]*/{Greek=Greek+1;}
-/^oct[a-z]*/{Greek=Greek+1;}
-/^oct[a-z]*/{Latin=Latin+1;}
-/^octav[a-z]*/{Latin=Latin+1;}
-/^octogen[a-z]*/{Latin=Latin+1;}
-/^octogesim[a-z]*/{Latin=Latin+1;}
-/^octon[a-z]*/{Latin=Latin+1;}
-/^ocul[a-z]*/{Latin=Latin+1;}
-/^od[a-z]*/{Greek=Greek+1;}
-/^odi[a-z]*/{Latin=Latin+1;}
-/^odont[a-z]*/{Greek=Greek+1;}
-/^odor[a-z]*/{Latin=Latin+1;}
-/^odyn[a-z]*/{Greek=Greek+1;}
-/^oec[a-z]*/{Greek=Greek+1;}
-/^oed[a-z]*/{Greek=Greek+1;}
-/^ed[a-z]*/{Greek=Greek+1;}
-/^oen[a-z]*/{Greek=Greek+1;}
-/^oesophag[a-z]*/{Greek=Greek+1;}
-/^oestr[a-z]*/{Greek=Greek+1;}
-/^ogdo[a-z]*/{Greek=Greek+1;}
-/[a-z]*oid[^a-z]/{Greek=Greek+1;}
-/^ole[a-z]*/{Latin=Latin+1;}
-/^olecran[a-z]*/{Latin=Latin+1;}
-/^olecran[a-z]*/{Greek=Greek+1;}
-/^olig[a-z]*/{Greek=Greek+1;}
-/^oliv[a-z]*/{Latin=Latin+1;}
-/^om[a-z]*/{Greek=Greek+1;}
-/^om[a-z]*/{Greek=Greek+1;}
-/[a-z]*oma[^a-z]/{Greek=Greek+1;}
-/^omas[a-z]*/{Latin=Latin+1;}
-/^ombr[a-z]*/{Greek=Greek+1;}
-/^oment[a-z]*/{Latin=Latin+1;}
-/^omin[a-z]*/{Latin=Latin+1;}
-/^ommat[a-z]*/{Greek=Greek+1;}
-/^omni[a-z]*/{Latin=Latin+1;}
-/^omphal[a-z]*/{Greek=Greek+1;}
-/^on[a-z]*/{Greek=Greek+1;}
-/^onc[a-z]*/{Greek=Greek+1;}
-/^onc[a-z]*/{Greek=Greek+1;}
-/^oneir[a-z]*/{Greek=Greek+1;}
-/^oner[a-z]*/{Latin=Latin+1;}
-/^oni[a-z]*/{Greek=Greek+1;}
-/^onomat[a-z]*/{Greek=Greek+1;}
-/^ont[a-z]*/{Greek=Greek+1;}
-/^onych[a-z]*/{Greek=Greek+1;}
-/^onym[a-z]*/{Greek=Greek+1;}
-/^oo[a-z]*/{Greek=Greek+1;}
-/^op[a-z]*/{Greek=Greek+1;}
-/^opac[a-z]*/{Latin=Latin+1;}
-/^oper[a-z]*/{Latin=Latin+1;}
-/^oper[a-z]*/{Latin=Latin+1;}
-/^ophi[a-z]*/{Greek=Greek+1;}
-/^ophthalm[a-z]*/{Greek=Greek+1;}
-/^opisth[a-z]*/{Greek=Greek+1;}
-/^ops[a-z]*/{Greek=Greek+1;}
-/^opt[a-z]*/{Greek=Greek+1;}
-/^opsi[a-z]*/{Greek=Greek+1;}
-/^opson[a-z]*/{Greek=Greek+1;}
-/^opt[a-z]*/{Latin=Latin+1;}
-/^optim[a-z]*/{Latin=Latin+1;}
-/^or[a-z]*/{Greek=Greek+1;}
-/^or[a-z]*/{Latin=Latin+1;}
-/^ora[a-z]*/{Latin=Latin+1;}
-/^orb[a-z]*/{Latin=Latin+1;}
-/^orch[a-z]*/{Greek=Greek+1;}
-/^orches[a-z]*/{Greek=Greek+1;}
-/^ordin[a-z]*/{Latin=Latin+1;}
-/^oreg[a-z]*/{Greek=Greek+1;}
-/^org[a-z]*/{Greek=Greek+1;}
-/^organ[a-z]*/{Greek=Greek+1;}
-/^ori[a-z]*/{Latin=Latin+1;}
-/^ort[a-z]*/{Latin=Latin+1;}
-/^orn[a-z]*/{Latin=Latin+1;}
-/^ornith[a-z]*/{Greek=Greek+1;}
-/^orphan[a-z]*/{Greek=Greek+1;}
-/^orth[a-z]*/{Greek=Greek+1;}
-/^oryz[a-z]*/{Greek=Greek+1;}
-/^oscill[a-z]*/{Latin=Latin+1;}
-/^osm[a-z]*/{Greek=Greek+1;}
-/^osm[a-z]*/{Greek=Greek+1;}
-/^oss[a-z]*/{Latin=Latin+1;}
-/^oste[a-z]*/{Greek=Greek+1;}
-/^osti[a-z]*/{Latin=Latin+1;}
-/^ostrac[a-z]*/{Greek=Greek+1;}
-/^ostre[a-z]*/{Greek=Greek+1;}
-/^ot[a-z]*/{Greek=Greek+1;}
-/^ov[a-z]*/{Latin=Latin+1;}
-/^ovi[a-z]*/{Latin=Latin+1;}
-/^oxy[a-z]*/{Greek=Greek+1;}
-/^oz[a-z]*/{Greek=Greek+1;}
-/^pac[a-z]*/{Latin=Latin+1;}
-/^pach[a-z]*/{Greek=Greek+1;}
-/^pact[a-z]*/{Latin=Latin+1;}
-/^pae[a-z]*/{Greek=Greek+1;}
-/^paed[a-z]*/{Greek=Greek+1;}
-/^ped[a-z]*/{Greek=Greek+1;}
-/^pagin[a-z]*/{Latin=Latin+1;}
-/^pal[a-z]*/{Latin=Latin+1;}
-/^palae[a-z]*/{Greek=Greek+1;}
-/^pale[a-z]*/{Greek=Greek+1;}
-/^palin[a-z]*/{Greek=Greek+1;}
-/^palim[a-z]*/{Greek=Greek+1;}
-/^pall[a-z]*/{Latin=Latin+1;}
-/^palli[a-z]*/{Latin=Latin+1;}
-/^palm[a-z]*/{Latin=Latin+1;}
-/^palp[a-z]*/{Latin=Latin+1;}
-/^palustr[a-z]*/{Latin=Latin+1;}
-/^pan[a-z]*/{Greek=Greek+1;}
-/^pan[a-z]*/{Greek=Greek+1;}
-/^pam[a-z]*/{Greek=Greek+1;}
-/^pan[a-z]*/{Latin=Latin+1;}
-/^pand[a-z]*/{Latin=Latin+1;}
-/^pans[a-z]*/{Latin=Latin+1;}
-/^par[a-z]*/{Greek=Greek+1;}
-/^para[a-z]*/{Greek=Greek+1;}
-/^par[a-z]*/{Latin=Latin+1;}
-/^par[a-z]*/{Latin=Latin+1;}
-/^par[a-z]*/{Greek=Greek+1;}
-/^para[a-z]*/{Greek=Greek+1;}
-/^parc[a-z]*/{Latin=Latin+1;}
-/^pars[a-z]*/{Latin=Latin+1;}
-/^pariet[a-z]*/{Latin=Latin+1;}
-/^part[a-z]*/{Latin=Latin+1;}
-/^parthen[a-z]*/{Greek=Greek+1;}
-/^parv[a-z]*/{Latin=Latin+1;}
-/^pasc[a-z]*/{Latin=Latin+1;}
-/^past[a-z]*/{Latin=Latin+1;}
-/^pass[a-z]*/{Greek=Greek+1;}
-/^pass[a-z]*/{Latin=Latin+1;}
-/^passer[a-z]*/{Latin=Latin+1;}
-/^pat[a-z]*/{Greek=Greek+1;}
-/^pat[a-z]*/{Latin=Latin+1;}
-/^path[a-z]*/{Greek=Greek+1;}
-/^pater[a-z]*/{Greek=Greek+1;}
-/^patr[a-z]*/{Greek=Greek+1;}
-/^pater[a-z]*/{Latin=Latin+1;}
-/^patr[a-z]*/{Latin=Latin+1;}
-/^pati[a-z]*/{Latin=Latin+1;}
-/^pass[a-z]*/{Latin=Latin+1;}
-/^pauc[a-z]*/{Latin=Latin+1;}
-/^pav[a-z]*/{Latin=Latin+1;}
-/^pecc[a-z]*/{Latin=Latin+1;}
-/^pect[a-z]*/{Greek=Greek+1;}
-/^pector[a-z]*/{Latin=Latin+1;}
-/^pecu[a-z]*/{Latin=Latin+1;}
-/^ped[a-z]*/{Latin=Latin+1;}
-/^peg[a-z]*/{Greek=Greek+1;}
-/^pect[a-z]*/{Greek=Greek+1;}
-/^pejor[a-z]*/{Latin=Latin+1;}
-/^pel[a-z]*/{Greek=Greek+1;}
-/^pelag[a-z]*/{Greek=Greek+1;}
-/^pelarg[a-z]*/{Greek=Greek+1;}
-/^pell[a-z]*/{Latin=Latin+1;}
-/^puls[a-z]*/{Latin=Latin+1;}
-/^pemp[a-z]*/{Greek=Greek+1;}
-/^pomp[a-z]*/{Greek=Greek+1;}
-/^pen[a-z]*/{Latin=Latin+1;}
-/^pen[a-z]*/{Latin=Latin+1;}
-/^poen[a-z]*/{Latin=Latin+1;}
-/^puni[a-z]*/{Latin=Latin+1;}
-/^pend[a-z]*/{Latin=Latin+1;}
-/^pens[a-z]*/{Latin=Latin+1;}
-/^penia[a-z]*/{Greek=Greek+1;}
-/^penn[a-z]*/{Latin=Latin+1;}
-/^pinn[a-z]*/{Latin=Latin+1;}
-/^pent[a-z]*/{Greek=Greek+1;}
-/^pentacosi[a-z]*/{Greek=Greek+1;}
-/^pentecont[a-z]*/{Greek=Greek+1;}
-/^pentecost[a-z]*/{Greek=Greek+1;}
-/^peper[a-z]*/{Greek=Greek+1;}
-/^pepon[a-z]*/{Greek=Greek+1;}
-/^pept[a-z]*/{Greek=Greek+1;}
-/^per[a-z]*/{Greek=Greek+1;}
-/^per[a-z]*/{Latin=Latin+1;}
-/^pel[a-z]*/{Latin=Latin+1;}
-/^peran[a-z]*/{Greek=Greek+1;}
-/^perdic[a-z]*/{Greek=Greek+1;}
-/^peri[a-z]*/{Greek=Greek+1;}
-/^persic[a-z]*/{Greek=Greek+1;}
-/^pessim[a-z]*/{Latin=Latin+1;}
-/^pet[a-z]*/{Latin=Latin+1;}
-/^petr[a-z]*/{Greek=Greek+1;}
-/^phae[a-z]*/{Greek=Greek+1;}
-/^phe[a-z]*/{Greek=Greek+1;}
-/^phag[a-z]*/{Greek=Greek+1;}
-/^phalang[a-z]*/{Greek=Greek+1;}
-/^phalar[a-z]*/{Greek=Greek+1;}
-/^pharmac[a-z]*/{Greek=Greek+1;}
-/^phan[a-z]*/{Greek=Greek+1;}
-/^phen[a-z]*/{Greek=Greek+1;}
-/^pheb[a-z]*/{Greek=Greek+1;}
-/^phob[a-z]*/{Greek=Greek+1;}
-/^pher[a-z]*/{Greek=Greek+1;}
-/^phor[a-z]*/{Greek=Greek+1;}
-/^pheug[a-z]*/{Greek=Greek+1;}
-/^phyg[a-z]*/{Greek=Greek+1;}
-/^phil[a-z]*/{Greek=Greek+1;}
-/[a-z]*phile[^a-z]/{Greek=Greek+1;}
-/^phim[a-z]*/{Greek=Greek+1;}
-/^phleb[a-z]*/{Greek=Greek+1;}
-/^phleg[a-z]*/{Greek=Greek+1;}
-/^phlog[a-z]*/{Greek=Greek+1;}
-/^phloe[a-z]*/{Greek=Greek+1;}
-/^phob[a-z]*/{Greek=Greek+1;}
-/^phon[a-z]*/{Greek=Greek+1;}
-/^phos[a-z]*/{Greek=Greek+1;}
-/^phot[a-z]*/{Greek=Greek+1;}
-/^phrag[a-z]*/{Greek=Greek+1;}
-/^phren[a-z]*/{Greek=Greek+1;}
-/^phron[a-z]*/{Greek=Greek+1;}
-/^phryn[a-z]*/{Greek=Greek+1;}
-/^phtheg[a-z]*/{Greek=Greek+1;}
-/^phyc[a-z]*/{Greek=Greek+1;}
-/^phyl[a-z]*/{Greek=Greek+1;}
-/^phyll[a-z]*/{Greek=Greek+1;}
-/^phys[a-z]*/{Greek=Greek+1;}
-/^physi[a-z]*/{Greek=Greek+1;}
-/^physalid[a-z]*/{Greek=Greek+1;}
-/^phyt[a-z]*/{Greek=Greek+1;}
-/^pi[a-z]*/{Latin=Latin+1;}
-/^pic[a-z]*/{Latin=Latin+1;}
-/^piez[a-z]*/{Greek=Greek+1;}
-/^pil[a-z]*/{Latin=Latin+1;}
-/^pil[a-z]*/{Latin=Latin+1;}
-/^pin[a-z]*/{Greek=Greek+1;}
-/^pin[a-z]*/{Latin=Latin+1;}
-/^ping[a-z]*/{Latin=Latin+1;}
-/^pict[a-z]*/{Latin=Latin+1;}
-/^pingu[a-z]*/{Latin=Latin+1;}
-/^pir[a-z]*/{Greek=Greek+1;}
-/^pir[a-z]*/{Latin=Latin+1;}
-/^pisc[a-z]*/{Latin=Latin+1;}
-/^pis[a-z]*/{Greek=Greek+1;}
-/^pithec[a-z]*/{Greek=Greek+1;}
-/^plac[a-z]*/{Greek=Greek+1;}
-/^plac[a-z]*/{Latin=Latin+1;}
-/^plac[a-z]*/{Latin=Latin+1;}
-/^plea[a-z]*/{Latin=Latin+1;}
-/^plag[a-z]*/{Greek=Greek+1;}
-/^plan[a-z]*/{Greek=Greek+1;}
-/^plan[a-z]*/{Latin=Latin+1;}
-/^plang[a-z]*/{Latin=Latin+1;}
-/^planct[a-z]*/{Latin=Latin+1;}
-/^plas[a-z]*/{Greek=Greek+1;}
-/^plat[a-z]*/{Greek=Greek+1;}
-/^plaud[a-z]*/{Latin=Latin+1;}
-/[a-z]*plod[a-z]*/{Latin=Latin+1;}
-/^plaus[a-z]*/{Latin=Latin+1;}
-/[a-z]*plos[a-z]*/{Latin=Latin+1;}
-/^ple[a-z]*/{Greek=Greek+1;}
-/^ple[a-z]*/{Greek=Greek+1;}
-/^ple[a-z]*/{Latin=Latin+1;}
-/^plet[a-z]*/{Latin=Latin+1;}
-/^pleb[a-z]*/{Latin=Latin+1;}
-/^plec[a-z]*/{Greek=Greek+1;}
-/^ploc[a-z]*/{Greek=Greek+1;}
-/^plect[a-z]*/{Latin=Latin+1;}
-/^plex[a-z]*/{Latin=Latin+1;}
-/^pleg[a-z]*/{Greek=Greek+1;}
-/^plen[a-z]*/{Latin=Latin+1;}
-/^plesi[a-z]*/{Greek=Greek+1;}
-/^pleth[a-z]*/{Greek=Greek+1;}
-/^pleur[a-z]*/{Greek=Greek+1;}
-/^plic[a-z]*/{Latin=Latin+1;}
-/^plinth[a-z]*/{Greek=Greek+1;}
-/^plor[a-z]*/{Latin=Latin+1;}
-/^plu[a-z]*/{Latin=Latin+1;}
-/^plum[a-z]*/{Latin=Latin+1;}
-/^plumb[a-z]*/{Latin=Latin+1;}
-/^plur[a-z]*/{Latin=Latin+1;}
-/^plus[a-z]*/{Latin=Latin+1;}
-/^plurim[a-z]*/{Latin=Latin+1;}
-/^plut[a-z]*/{Greek=Greek+1;}
-/^pne[a-z]*/{Greek=Greek+1;}
-/^pnig[a-z]*/{Greek=Greek+1;}
-/^pnict[a-z]*/{Greek=Greek+1;}
-/^po[a-z]*/{Greek=Greek+1;}
-/^pin[a-z]*/{Greek=Greek+1;}
-/^pod[a-z]*/{Greek=Greek+1;}
-/^pogon[a-z]*/{Greek=Greek+1;}
-/^poie[a-z]*/{Greek=Greek+1;}
-/^poe[a-z]*/{Greek=Greek+1;}
-/^pol[a-z]*/{Greek=Greek+1;}
-/^pole[a-z]*/{Greek=Greek+1;}
-/^polem[a-z]*/{Greek=Greek+1;}
-/^poli[a-z]*/{Greek=Greek+1;}
-/^poli[a-z]*/{Greek=Greek+1;}
-/^poll[a-z]*/{Greek=Greek+1;}
-/^pollic[a-z]*/{Latin=Latin+1;}
-/^pollin[a-z]*/{Latin=Latin+1;}
-/^poly[a-z]*/{Greek=Greek+1;}
-/^pomph[a-z]*/{Greek=Greek+1;}
-/^pon[a-z]*/{Latin=Latin+1;}
-/^posit[a-z]*/{Latin=Latin+1;}
-/^ponder[a-z]*/{Latin=Latin+1;}
-/^pont[a-z]*/{Latin=Latin+1;}
-/^popul[a-z]*/{Latin=Latin+1;}
-/^por[a-z]*/{Greek=Greek+1;}
-/^porc[a-z]*/{Latin=Latin+1;}
-/^porn[a-z]*/{Greek=Greek+1;}
-/^porphyr[a-z]*/{Greek=Greek+1;}
-/^port[a-z]*/{Latin=Latin+1;}
-/^portion[a-z]*/{Latin=Latin+1;}
-/^post[a-z]*/{Latin=Latin+1;}
-/^pot[a-z]*/{Latin=Latin+1;}
-/^pot[a-z]*/{Latin=Latin+1;}
-/^potam[a-z]*/{Greek=Greek+1;}
-/^prag[a-z]*/{Greek=Greek+1;}
-/^pras[a-z]*/{Greek=Greek+1;}
-/^prat[a-z]*/{Latin=Latin+1;}
-/^prav[a-z]*/{Latin=Latin+1;}
-/^pre[a-z]*/{Latin=Latin+1;}
-/^prec[a-z]*/{Latin=Latin+1;}
-/^pred[a-z]*/{Latin=Latin+1;}
-/^prehend[a-z]*/{Latin=Latin+1;}
-/^prend[a-z]*/{Latin=Latin+1;}
-/^prehens[a-z]*/{Latin=Latin+1;}
-/^prem[a-z]*/{Latin=Latin+1;}
-/[a-z]*prim[a-z]*/{Latin=Latin+1;}
-/^press[a-z]*/{Latin=Latin+1;}
-/^presby[a-z]*/{Greek=Greek+1;}
-/^preter[a-z]*/{Latin=Latin+1;}
-/^preti[a-z]*/{Latin=Latin+1;}
-/^pri[a-z]*/{Greek=Greek+1;}
-/^priap[a-z]*/{Greek=Greek+1;}
-/^prim[a-z]*/{Latin=Latin+1;}
-/^prior[a-z]*/{Latin=Latin+1;}
-/^prism[a-z]*/{Greek=Greek+1;}
-/^priv[a-z]*/{Latin=Latin+1;}
-/^pro[a-z]*/{Greek=Greek+1;}
-/^pro[a-z]*/{Latin=Latin+1;}
-/^prob[a-z]*/{Latin=Latin+1;}
-/^proct[a-z]*/{Greek=Greek+1;}
-/^prodig[a-z]*/{Latin=Latin+1;}
-/^prodig[a-z]*/{Latin=Latin+1;}
-/^propri[a-z]*/{Latin=Latin+1;}
-/^pros[a-z]*/{Greek=Greek+1;}
-/^prosop[a-z]*/{Greek=Greek+1;}
-/^prot[a-z]*/{Greek=Greek+1;}
-/^proter[a-z]*/{Greek=Greek+1;}
-/^proxim[a-z]*/{Latin=Latin+1;}
-/^prun[a-z]*/{Latin=Latin+1;}
-/^psa[a-z]*/{Greek=Greek+1;}
-/^psall[a-z]*/{Greek=Greek+1;}
-/^psamath[a-z]*/{Greek=Greek+1;}
-/^psamm[a-z]*/{Greek=Greek+1;}
-/^pseph[a-z]*/{Greek=Greek+1;}
-/^pseud[a-z]*/{Greek=Greek+1;}
-/^pseud[a-z]*/{Greek=Greek+1;}
-/^psil[a-z]*/{Greek=Greek+1;}
-/^psithyr[a-z]*/{Greek=Greek+1;}
-/^psittac[a-z]*/{Greek=Greek+1;}
-/^psoph[a-z]*/{Greek=Greek+1;}
-/^psor[a-z]*/{Greek=Greek+1;}
-/^psych[a-z]*/{Greek=Greek+1;}
-/^psychr[a-z]*/{Greek=Greek+1;}
-/^pter[a-z]*/{Greek=Greek+1;}
-/^pterid[a-z]*/{Greek=Greek+1;}
-/^pto[a-z]*/{Greek=Greek+1;}
-/^ptoch[a-z]*/{Greek=Greek+1;}
-/^pty[a-z]*/{Greek=Greek+1;}
-/^ptych[a-z]*/{Greek=Greek+1;}
-/^pub[a-z]*/{Latin=Latin+1;}
-/^public[a-z]*/{Latin=Latin+1;}
-/^pude[a-z]*/{Latin=Latin+1;}
-/^pug[a-z]*/{Latin=Latin+1;}
-/^pugn[a-z]*/{Latin=Latin+1;}
-/^pulchr[a-z]*/{Latin=Latin+1;}
-/^pulmon[a-z]*/{Latin=Latin+1;}
-/^pulver[a-z]*/{Latin=Latin+1;}
-/^pung[a-z]*/{Latin=Latin+1;}
-/^punct[a-z]*/{Latin=Latin+1;}
-/^pup[a-z]*/{Latin=Latin+1;}
-/^pur[a-z]*/{Latin=Latin+1;}
-/^purg[a-z]*/{Latin=Latin+1;}
-/^purpur[a-z]*/{Latin=Latin+1;}
-/^put[a-z]*/{Latin=Latin+1;}
-/^py[a-z]*/{Greek=Greek+1;}
-/^pyel[a-z]*/{Greek=Greek+1;}
-/^pyg[a-z]*/{Greek=Greek+1;}
-/^pyl[a-z]*/{Greek=Greek+1;}
-/^pyr[a-z]*/{Greek=Greek+1;}
-/^pyramid[a-z]*/{Greek=Greek+1;}
-/^pyrrh[a-z]*/{Greek=Greek+1;}
-/^quadr[a-z]*/{Latin=Latin+1;}
-/^quadragen[a-z]*/{Latin=Latin+1;}
-/^quadragesim[a-z]*/{Latin=Latin+1;}
-/^quart[a-z]*/{Latin=Latin+1;}
-/^quasi[a-z]*/{Latin=Latin+1;}
-/^quatern[a-z]*/{Latin=Latin+1;}
-/^quati[a-z]*/{Latin=Latin+1;}
-/[a-z]*cuti[a-z]*/{Latin=Latin+1;}
-/^quass[a-z]*/{Latin=Latin+1;}
-/[a-z]*cuss[a-z]*/{Latin=Latin+1;}
-/^quer[a-z]*/{Latin=Latin+1;}
-/[a-z]*quir[a-z]*/{Latin=Latin+1;}
-/^quesit[a-z]*/{Latin=Latin+1;}
-/[a-z]*quisit[a-z]*/{Latin=Latin+1;}
-/^qui[a-z]*/{Latin=Latin+1;}
-/^quin[a-z]*/{Latin=Latin+1;}
-/^quindecim[a-z]*/{Latin=Latin+1;}
-/^quinden[a-z]*/{Latin=Latin+1;}
-/^quinque[a-z]*/{Latin=Latin+1;}
-/^quint[a-z]*/{Latin=Latin+1;}
-/^quot[a-z]*/{Latin=Latin+1;}
-/^rad[a-z]*/{Latin=Latin+1;}
-/^ras[a-z]*/{Latin=Latin+1;}
-/^radi[a-z]*/{Latin=Latin+1;}
-/^radic[a-z]*/{Latin=Latin+1;}
-/^ram[a-z]*/{Latin=Latin+1;}
-/^ran[a-z]*/{Latin=Latin+1;}
-/^ranc[a-z]*/{Latin=Latin+1;}
-/^rap[a-z]*/{Latin=Latin+1;}
-/^rap[a-z]*/{Latin=Latin+1;}
-/^raph[a-z]*/{Greek=Greek+1;}
-/^rar[a-z]*/{Latin=Latin+1;}
-/^rauc[a-z]*/{Latin=Latin+1;}
-/^re[a-z]*/{Latin=Latin+1;}
-/^red[a-z]*/{Latin=Latin+1;}
-/^rect[a-z]*/{Latin=Latin+1;}
-/^reg[a-z]*/{Latin=Latin+1;}
-/[a-z]*rig[a-z]*/{Latin=Latin+1;}
-/^reg[a-z]*/{Latin=Latin+1;}
-/^rex[a-z]*/{Latin=Latin+1;}
-/^regul[a-z]*/{Latin=Latin+1;}
-/^rem[a-z]*/{Latin=Latin+1;}
-/^ren[a-z]*/{Latin=Latin+1;}
-/^rep[a-z]*/{Latin=Latin+1;}
-/^rept[a-z]*/{Latin=Latin+1;}
-/^resid[a-z]*/{Latin=Latin+1;}
-/^ret[a-z]*/{Latin=Latin+1;}
-/^retro[a-z]*/{Latin=Latin+1;}
-/^rhabd[a-z]*/{Greek=Greek+1;}
-/^rhach[a-z]*/{Greek=Greek+1;}
-/^rach[a-z]*/{Greek=Greek+1;}
-/^rhag[a-z]*/{Greek=Greek+1;}
-/^rheg[a-z]*/{Greek=Greek+1;}
-/^rhe[a-z]*/{Greek=Greek+1;}
-/^rhetin[a-z]*/{Greek=Greek+1;}
-/^rhig[a-z]*/{Greek=Greek+1;}
-/^rhin[a-z]*/{Greek=Greek+1;}
-/^rhiz[a-z]*/{Greek=Greek+1;}
-/^rho[a-z]*/{Greek=Greek+1;}
-/^rhod[a-z]*/{Greek=Greek+1;}
-/^rhomb[a-z]*/{Greek=Greek+1;}
-/^rhynch[a-z]*/{Greek=Greek+1;}
-/^rid[a-z]*/{Latin=Latin+1;}
-/^ris[a-z]*/{Latin=Latin+1;}
-/^robor[a-z]*/{Latin=Latin+1;}
-/^rod[a-z]*/{Latin=Latin+1;}
-/^ros[a-z]*/{Latin=Latin+1;}
-/^rog[a-z]*/{Latin=Latin+1;}
-/^rostr[a-z]*/{Latin=Latin+1;}
-/^rot[a-z]*/{Latin=Latin+1;}
-/^ruber[a-z]*/{Latin=Latin+1;}
-/^rubr[a-z]*/{Latin=Latin+1;}
-/^rudi[a-z]*/{Latin=Latin+1;}
-/^rug[a-z]*/{Latin=Latin+1;}
-/^rumin[a-z]*/{Latin=Latin+1;}
-/^rump[a-z]*/{Latin=Latin+1;}
-/^rupt[a-z]*/{Latin=Latin+1;}
-/^rur[a-z]*/{Latin=Latin+1;}
-/^sacc[a-z]*/{Greek=Greek+1;}
-/^sacchar[a-z]*/{Greek=Greek+1;}
-/^sacr[a-z]*/{Latin=Latin+1;}
-/[a-z]*secr[a-z]*/{Latin=Latin+1;}
-/^sagac[a-z]*/{Latin=Latin+1;}
-/^sagitt[a-z]*/{Latin=Latin+1;}
-/^sal[a-z]*/{Latin=Latin+1;}
-/^sali[a-z]*/{Latin=Latin+1;}
-/[a-z]*sili[a-z]*/{Latin=Latin+1;}
-/^salt[a-z]*/{Latin=Latin+1;}
-/^salic[a-z]*/{Latin=Latin+1;}
-/^salping[a-z]*/{Greek=Greek+1;}
-/^salu[a-z]*/{Latin=Latin+1;}
-/^salv[a-z]*/{Latin=Latin+1;}
-/^san[a-z]*/{Latin=Latin+1;}
-/^sanc[a-z]*/{Latin=Latin+1;}
-/^sanguin[a-z]*/{Latin=Latin+1;}
-/^sapi[a-z]*/{Latin=Latin+1;}
-/[a-z]*sipi[a-z]*/{Latin=Latin+1;}
-/^sapon[a-z]*/{Latin=Latin+1;}
-/^sapphir[a-z]*/{Greek=Greek+1;}
-/^sapr[a-z]*/{Greek=Greek+1;}
-/^sarc[a-z]*/{Greek=Greek+1;}
-/^sarc[a-z]*/{Latin=Latin+1;}
-/^sati[a-z]*/{Latin=Latin+1;}
-/^saur[a-z]*/{Greek=Greek+1;}
-/^sax[a-z]*/{Latin=Latin+1;}
-/^scab[a-z]*/{Latin=Latin+1;}
-/^scal[a-z]*/{Latin=Latin+1;}
-/^scalen[a-z]*/{Greek=Greek+1;}
-/^scand[a-z]*/{Latin=Latin+1;}
-/[a-z]*scend[a-z]*/{Latin=Latin+1;}
-/^scans[a-z]*/{Latin=Latin+1;}
-/[a-z]*scens[a-z]*/{Latin=Latin+1;}
-/^scandal[a-z]*/{Greek=Greek+1;}
-/^scap[a-z]*/{Greek=Greek+1;}
-/^scaph[a-z]*/{Greek=Greek+1;}
-/^scat[a-z]*/{Greek=Greek+1;}
-/^sced[a-z]*/{Greek=Greek+1;}
-/^scel[a-z]*/{Greek=Greek+1;}
-/^scen[a-z]*/{Greek=Greek+1;}
-/^scept[a-z]*/{Greek=Greek+1;}
-/^scop[a-z]*/{Greek=Greek+1;}
-/^schem[a-z]*/{Greek=Greek+1;}
-/^schid[a-z]*/{Greek=Greek+1;}
-/^sci[a-z]*/{Greek=Greek+1;}
-/^sci[a-z]*/{Latin=Latin+1;}
-/^scind[a-z]*/{Latin=Latin+1;}
-/^sciss[a-z]*/{Latin=Latin+1;}
-/^scler[a-z]*/{Greek=Greek+1;}
-/^scolec[a-z]*/{Greek=Greek+1;}
-/^scoli[a-z]*/{Greek=Greek+1;}
-/^scombr[a-z]*/{Greek=Greek+1;}
-/^scop[a-z]*/{Greek=Greek+1;}
-/^scot[a-z]*/{Greek=Greek+1;}
-/^scrib[a-z]*/{Latin=Latin+1;}
-/^script[a-z]*/{Latin=Latin+1;}
-/^scrupl[a-z]*/{Latin=Latin+1;}
-/^sculp[a-z]*/{Latin=Latin+1;}
-/^scut[a-z]*/{Latin=Latin+1;}
-/^scyph[a-z]*/{Greek=Greek+1;}
-/^se[a-z]*/{Latin=Latin+1;}
-/^sed[a-z]*/{Latin=Latin+1;}
-/^seb[a-z]*/{Latin=Latin+1;}
-/^sec[a-z]*/{Latin=Latin+1;}
-/^sect[a-z]*/{Latin=Latin+1;}
-/^seg[a-z]*/{Latin=Latin+1;}
-/^sed[a-z]*/{Latin=Latin+1;}
-/^sed[a-z]*/{Latin=Latin+1;}
-/[a-z]*sid[a-z]*/{Latin=Latin+1;}
-/^sess[a-z]*/{Latin=Latin+1;}
-/^sedec[a-z]*/{Latin=Latin+1;}
-/^seget[a-z]*/{Latin=Latin+1;}
-/^sei[a-z]*/{Greek=Greek+1;}
-/^selen[a-z]*/{Greek=Greek+1;}
-/^sell[a-z]*/{Latin=Latin+1;}
-/^sema[a-z]*/{Greek=Greek+1;}
-/^semi[a-z]*/{Latin=Latin+1;}
-/^semin[a-z]*/{Latin=Latin+1;}
-/^sen[a-z]*/{Latin=Latin+1;}
-/^sen[a-z]*/{Latin=Latin+1;}
-/^senti[a-z]*/{Latin=Latin+1;}
-/^sens[a-z]*/{Latin=Latin+1;}
-/^sep[a-z]*/{Greek=Greek+1;}
-/^sept[a-z]*/{Latin=Latin+1;}
-/^sept[a-z]*/{Latin=Latin+1;}
-/^septen[a-z]*/{Latin=Latin+1;}
-/^septim[a-z]*/{Latin=Latin+1;}
-/^septuagen[a-z]*/{Latin=Latin+1;}
-/^septuagesim[a-z]*/{Latin=Latin+1;}
-/^septuagint[a-z]*/{Latin=Latin+1;}
-/^sequ[a-z]*/{Latin=Latin+1;}
-/^secut[a-z]*/{Latin=Latin+1;}
-/^ser[a-z]*/{Greek=Greek+1;}
-/^ser[a-z]*/{Latin=Latin+1;}
-/^ser[a-z]*/{Latin=Latin+1;}
-/^ser[a-z]*/{Latin=Latin+1;}
-/^ser[a-z]*/{Latin=Latin+1;}
-/^serp[a-z]*/{Latin=Latin+1;}
-/^serr[a-z]*/{Latin=Latin+1;}
-/^serv[a-z]*/{Latin=Latin+1;}
-/^sesqui[a-z]*/{Latin=Latin+1;}
-/^set[a-z]*/{Latin=Latin+1;}
-/^sever[a-z]*/{Latin=Latin+1;}
-/^sex[a-z]*/{Latin=Latin+1;}
-/^se[a-z]*/{Latin=Latin+1;}
-/^sexagen[a-z]*/{Latin=Latin+1;}
-/^sexagesim[a-z]*/{Latin=Latin+1;}
-/^sext[a-z]*/{Latin=Latin+1;}
-/^sibil[a-z]*/{Latin=Latin+1;}
-/^sicc[a-z]*/{Latin=Latin+1;}
-/^sicy[a-z]*/{Greek=Greek+1;}
-/^sider[a-z]*/{Greek=Greek+1;}
-/^sider[a-z]*/{Latin=Latin+1;}
-/^sigm[a-z]*/{Greek=Greek+1;}
-/^sign[a-z]*/{Latin=Latin+1;}
-/^sil[a-z]*/{Latin=Latin+1;}
-/^silv[a-z]*/{Latin=Latin+1;}
-/^simi[a-z]*/{Latin=Latin+1;}
-/^simil[a-z]*/{Latin=Latin+1;}
-/^simul[a-z]*/{Latin=Latin+1;}
-/^sinap[a-z]*/{Greek=Greek+1;}
-/^singul[a-z]*/{Latin=Latin+1;}
-/^sinistr[a-z]*/{Latin=Latin+1;}
-/^sinu[a-z]*/{Latin=Latin+1;}
-/^sinus[a-z]*/{Latin=Latin+1;}
-/^siop[a-z]*/{Greek=Greek+1;}
-/^siph[a-z]*/{Greek=Greek+1;}
-/^sist[a-z]*/{Latin=Latin+1;}
-/^sit[a-z]*/{Greek=Greek+1;}
-/^siz[a-z]*/{Greek=Greek+1;}
-/^smaragd[a-z]*/{Greek=Greek+1;}
-/^smil[a-z]*/{Greek=Greek+1;}
-/^soci[a-z]*/{Latin=Latin+1;}
-/^sol[a-z]*/{Latin=Latin+1;}
-/^sol[a-z]*/{Latin=Latin+1;}
-/^sol[a-z]*/{Latin=Latin+1;}
-/^sole[a-z]*/{Latin=Latin+1;}
-/^solen[a-z]*/{Greek=Greek+1;}
-/^solv[a-z]*/{Latin=Latin+1;}
-/^solut[a-z]*/{Latin=Latin+1;}
-/^soma[a-z]*/{Greek=Greek+1;}
-/^somn[a-z]*/{Latin=Latin+1;}
-/^somni[a-z]*/{Latin=Latin+1;}
-/^son[a-z]*/{Latin=Latin+1;}
-/^soph[a-z]*/{Greek=Greek+1;}
-/^sopor[a-z]*/{Latin=Latin+1;}
-/^sorb[a-z]*/{Latin=Latin+1;}
-/^sorpt[a-z]*/{Latin=Latin+1;}
-/^sord[a-z]*/{Latin=Latin+1;}
-/^soror[a-z]*/{Latin=Latin+1;}
-/^spa[a-z]*/{Greek=Greek+1;}
-/^spad[a-z]*/{Greek=Greek+1;}
-/^sparg[a-z]*/{Latin=Latin+1;}
-/[a-z]*sperg[a-z]*/{Latin=Latin+1;}
-/^spars[a-z]*/{Latin=Latin+1;}
-/[a-z]*spers[a-z]*/{Latin=Latin+1;}
-/^spath[a-z]*/{Greek=Greek+1;}
-/^spati[a-z]*/{Latin=Latin+1;}
-/^spec[a-z]*/{Latin=Latin+1;}
-/[a-z]*spic[a-z]*/{Latin=Latin+1;}
-/^spect[a-z]*/{Latin=Latin+1;}
-/^speir[a-z]*/{Greek=Greek+1;}
-/^spor[a-z]*/{Greek=Greek+1;}
-/^spele[a-z]*/{Greek=Greek+1;}
-/^spelyng[a-z]*/{Greek=Greek+1;}
-/^spend[a-z]*/{Greek=Greek+1;}
-/^spond[a-z]*/{Greek=Greek+1;}
-/^sper[a-z]*/{Latin=Latin+1;}
-/^sperm[a-z]*/{Greek=Greek+1;}
-/^sphal[a-z]*/{Greek=Greek+1;}
-/^sphen[a-z]*/{Greek=Greek+1;}
-/^spher[a-z]*/{Greek=Greek+1;}
-/^sphing[a-z]*/{Greek=Greek+1;}
-/^sphinct[a-z]*/{Greek=Greek+1;}
-/^sphondyl[a-z]*/{Greek=Greek+1;}
-/^sphrag[a-z]*/{Greek=Greek+1;}
-/^sphyg[a-z]*/{Greek=Greek+1;}
-/^spic[a-z]*/{Latin=Latin+1;}
-/^spin[a-z]*/{Latin=Latin+1;}
-/^spir[a-z]*/{Latin=Latin+1;}
-/^splen[a-z]*/{Greek=Greek+1;}
-/^spond[a-z]*/{Greek=Greek+1;}
-/^spond[a-z]*/{Latin=Latin+1;}
-/^spons[a-z]*/{Latin=Latin+1;}
-/^spondyl[a-z]*/{Greek=Greek+1;}
-/^spor[a-z]*/{Greek=Greek+1;}
-/^spu[a-z]*/{Latin=Latin+1;}
-/^sput[a-z]*/{Latin=Latin+1;}
-/^squal[a-z]*/{Latin=Latin+1;}
-/^squam[a-z]*/{Latin=Latin+1;}
-/^squarros[a-z]*/{Latin=Latin+1;}
-/^st[a-z]*/{Greek=Greek+1;}
-/^st[a-z]*/{Latin=Latin+1;}
-/^stagn[a-z]*/{Latin=Latin+1;}
-/^stala[a-z]*/{Greek=Greek+1;}
-/^stann[a-z]*/{Latin=Latin+1;}
-/^staphyl[a-z]*/{Greek=Greek+1;}
-/^statu[a-z]*/{Latin=Latin+1;}
-/[a-z]*stitu[a-z]*/{Latin=Latin+1;}
-/^steat[a-z]*/{Greek=Greek+1;}
-/^steg[a-z]*/{Greek=Greek+1;}
-/^stell[a-z]*/{Greek=Greek+1;}
-/^stol[a-z]*/{Greek=Greek+1;}
-/^stell[a-z]*/{Latin=Latin+1;}
-/^sten[a-z]*/{Greek=Greek+1;}
-/^sten[a-z]*/{Greek=Greek+1;}
-/^stere[a-z]*/{Greek=Greek+1;}
-/^stern[a-z]*/{Greek=Greek+1;}
-/^stern[a-z]*/{Latin=Latin+1;}
-/^strat[a-z]*/{Latin=Latin+1;}
-/^steth[a-z]*/{Greek=Greek+1;}
-/^sthen[a-z]*/{Greek=Greek+1;}
-/^stich[a-z]*/{Greek=Greek+1;}
-/^stich[a-z]*/{Greek=Greek+1;}
-/^stig[a-z]*/{Greek=Greek+1;}
-/^still[a-z]*/{Latin=Latin+1;}
-/^stimul[a-z]*/{Latin=Latin+1;}
-/^stin[a-z]*/{Latin=Latin+1;}
-/^stingu[a-z]*/{Latin=Latin+1;}
-/^stinct[a-z]*/{Latin=Latin+1;}
-/^stoch[a-z]*/{Greek=Greek+1;}
-/^stom[a-z]*/{Greek=Greek+1;}
-/^stor[a-z]*/{Greek=Greek+1;}
-/^strat[a-z]*/{Greek=Greek+1;}
-/^streper[a-z]*/{Latin=Latin+1;}
-/^streph[a-z]*/{Greek=Greek+1;}
-/^stroph[a-z]*/{Greek=Greek+1;}
-/^strob[a-z]*/{Greek=Greek+1;}
-/^stromb[a-z]*/{Greek=Greek+1;}
-/^strept[a-z]*/{Greek=Greek+1;}
-/^strig[a-z]*/{Latin=Latin+1;}
-/^strigos[a-z]*/{Latin=Latin+1;}
-/^string[a-z]*/{Latin=Latin+1;}
-/^strict[a-z]*/{Latin=Latin+1;}
-/^stroph[a-z]*/{Greek=Greek+1;}
-/^stru[a-z]*/{Latin=Latin+1;}
-/^struct[a-z]*/{Latin=Latin+1;}
-/^stud[a-z]*/{Latin=Latin+1;}
-/^stup[a-z]*/{Latin=Latin+1;}
-/^styg[a-z]*/{Greek=Greek+1;}
-/^styl[a-z]*/{Greek=Greek+1;}
-/^su[a-z]*/{Latin=Latin+1;}
-/^sut[a-z]*/{Latin=Latin+1;}
-/^suad[a-z]*/{Latin=Latin+1;}
-/^suas[a-z]*/{Latin=Latin+1;}
-/^suav[a-z]*/{Latin=Latin+1;}
-/^sub[a-z]*/{Latin=Latin+1;}
-/^su[a-z]*/{Latin=Latin+1;}
-/^suf[a-z]*/{Latin=Latin+1;}
-/^sug[a-z]*/{Latin=Latin+1;}
-/^sup[a-z]*/{Latin=Latin+1;}
-/^sus[a-z]*/{Latin=Latin+1;}
-/^subter[a-z]*/{Latin=Latin+1;}
-/^sucr[a-z]*/{Latin=Latin+1;}
-/^sud[a-z]*/{Latin=Latin+1;}
-/^sui[a-z]*/{Latin=Latin+1;}
-/^sulc[a-z]*/{Latin=Latin+1;}
-/^sum[a-z]*/{Latin=Latin+1;}
-/^sum[a-z]*/{Latin=Latin+1;}
-/^sumpt[a-z]*/{Latin=Latin+1;}
-/^super[a-z]*/{Latin=Latin+1;}
-/^supin[a-z]*/{Latin=Latin+1;}
-/^supra[a-z]*/{Latin=Latin+1;}
-/^surd[a-z]*/{Latin=Latin+1;}
-/^surg[a-z]*/{Latin=Latin+1;}
-/^sybar[a-z]*/{Greek=Greek+1;}
-/^syc[a-z]*/{Greek=Greek+1;}
-/^syn[a-z]*/{Greek=Greek+1;}
-/^sy[a-z]*/{Greek=Greek+1;}
-/^syg[a-z]*/{Greek=Greek+1;}
-/^syl[a-z]*/{Greek=Greek+1;}
-/^sym[a-z]*/{Greek=Greek+1;}
-/^sys[a-z]*/{Greek=Greek+1;}
-/^syring[a-z]*/{Greek=Greek+1;}
-/^tac[a-z]*/{Latin=Latin+1;}
-/[a-z]*tic[a-z]*/{Latin=Latin+1;}
-/^tach[a-z]*/{Greek=Greek+1;}
-/^taeni[a-z]*/{Greek=Greek+1;}
-/^tag[a-z]*/{Greek=Greek+1;}
-/^tal[a-z]*/{Latin=Latin+1;}
-/^tang[a-z]*/{Latin=Latin+1;}
-/[a-z]*ting[a-z]*/{Latin=Latin+1;}
-/^tact[a-z]*/{Latin=Latin+1;}
-/^tag[a-z]*/{Latin=Latin+1;}
-/^tapet[a-z]*/{Latin=Latin+1;}
-/^tarac[a-z]*/{Greek=Greek+1;}
-/^tard[a-z]*/{Latin=Latin+1;}
-/^tars[a-z]*/{Greek=Greek+1;}
-/^taur[a-z]*/{Greek=Greek+1;}
-/^taur[a-z]*/{Latin=Latin+1;}
-/^tec[a-z]*/{Greek=Greek+1;}
-/^tec[a-z]*/{Greek=Greek+1;}
-/^toc[a-z]*/{Greek=Greek+1;}
-/^techn[a-z]*/{Greek=Greek+1;}
-/^tecn[a-z]*/{Greek=Greek+1;}
-/^teg[a-z]*/{Latin=Latin+1;}
-/^tect[a-z]*/{Latin=Latin+1;}
-/^tele[a-z]*/{Greek=Greek+1;}
-/^tele[a-z]*/{Greek=Greek+1;}
-/^tem[a-z]*/{Greek=Greek+1;}
-/^tom[a-z]*/{Greek=Greek+1;}
-/^temn[a-z]*/{Latin=Latin+1;}
-/^tempt[a-z]*/{Latin=Latin+1;}
-/^tempor[a-z]*/{Latin=Latin+1;}
-/^ten[a-z]*/{Greek=Greek+1;}
-/^ton[a-z]*/{Greek=Greek+1;}
-/^ten[a-z]*/{Latin=Latin+1;}
-/[a-z]*tin[a-z]*/{Latin=Latin+1;}
-/^tent[a-z]*/{Latin=Latin+1;}
-/^tend[a-z]*/{Latin=Latin+1;}
-/^tens[a-z]*/{Latin=Latin+1;}
-/^tenu[a-z]*/{Latin=Latin+1;}
-/^tep[a-z]*/{Latin=Latin+1;}
-/^ter[a-z]*/{Latin=Latin+1;}
-/^trit[a-z]*/{Latin=Latin+1;}
-/^tere[a-z]*/{Greek=Greek+1;}
-/^teret[a-z]*/{Latin=Latin+1;}
-/^terg[a-z]*/{Latin=Latin+1;}
-/^ters[a-z]*/{Latin=Latin+1;}
-/^termin[a-z]*/{Latin=Latin+1;}
-/^tern[a-z]*/{Latin=Latin+1;}
-/^terr[a-z]*/{Latin=Latin+1;}
-/^terti[a-z]*/{Latin=Latin+1;}
-/^test[a-z]*/{Latin=Latin+1;}
-/^tetart[a-z]*/{Greek=Greek+1;}
-/^tetr[a-z]*/{Greek=Greek+1;}
-/^teuch[a-z]*/{Greek=Greek+1;}
-/^tex[a-z]*/{Latin=Latin+1;}
-/^text[a-z]*/{Latin=Latin+1;}
-/^thalam[a-z]*/{Greek=Greek+1;}
-/^thalass[a-z]*/{Greek=Greek+1;}
-/^than[a-z]*/{Greek=Greek+1;}
-/^the[a-z]*/{Greek=Greek+1;}
-/^thus[a-z]*/{Greek=Greek+1;}
-/^the[a-z]*/{Greek=Greek+1;}
-/^thea[a-z]*/{Greek=Greek+1;}
-/^thel[a-z]*/{Greek=Greek+1;}
-/^theori[a-z]*/{Greek=Greek+1;}
-/^ther[a-z]*/{Greek=Greek+1;}
-/^therap[a-z]*/{Greek=Greek+1;}
-/^therm[a-z]*/{Greek=Greek+1;}
-/^thig[a-z]*/{Greek=Greek+1;}
-/^thorac[a-z]*/{Greek=Greek+1;}
-/^thym[a-z]*/{Greek=Greek+1;}
-/^thyr[a-z]*/{Greek=Greek+1;}
-/^thyre[a-z]*/{Greek=Greek+1;}
-/^tim[a-z]*/{Latin=Latin+1;}
-/^ting[a-z]*/{Latin=Latin+1;}
-/^tinct[a-z]*/{Latin=Latin+1;}
-/^tom[a-z]*/{Greek=Greek+1;}
-/^ton[a-z]*/{Greek=Greek+1;}
-/^top[a-z]*/{Greek=Greek+1;}
-/^torn[a-z]*/{Latin=Latin+1;}
-/^torn[a-z]*/{Greek=Greek+1;}
-/^torpe[a-z]*/{Latin=Latin+1;}
-/^torqu[a-z]*/{Latin=Latin+1;}
-/^tort[a-z]*/{Latin=Latin+1;}
-/^tot[a-z]*/{Latin=Latin+1;}
-/^tox[a-z]*/{Greek=Greek+1;}
-/^trab[a-z]*/{Latin=Latin+1;}
-/^trach[a-z]*/{Greek=Greek+1;}
-/^trag[a-z]*/{Greek=Greek+1;}
-/^trah[a-z]*/{Latin=Latin+1;}
-/^tract[a-z]*/{Latin=Latin+1;}
-/^trans[a-z]*/{Latin=Latin+1;}
-/^tra[a-z]*/{Latin=Latin+1;}
-/^tran[a-z]*/{Latin=Latin+1;}
-/^trapez[a-z]*/{Greek=Greek+1;}
-/^traum[a-z]*/{Greek=Greek+1;}
-/^trecent[a-z]*/{Latin=Latin+1;}
-/^trech[a-z]*/{Greek=Greek+1;}
-/^troch[a-z]*/{Greek=Greek+1;}
-/^tredec[a-z]*/{Latin=Latin+1;}
-/^treiskaidek[a-z]*/{Greek=Greek+1;}
-/^trem[a-z]*/{Latin=Latin+1;}
-/^trema[a-z]*/{Greek=Greek+1;}
-/^trep[a-z]*/{Greek=Greek+1;}
-/^trop[a-z]*/{Greek=Greek+1;}
-/^treph[a-z]*/{Greek=Greek+1;}
-/^troph[a-z]*/{Greek=Greek+1;}
-/^trepid[a-z]*/{Latin=Latin+1;}
-/^tri[a-z]*/{Greek=Greek+1;}
-/^tri[a-z]*/{Latin=Latin+1;}
-/^trib[a-z]*/{Greek=Greek+1;}
-/^tript[a-z]*/{Greek=Greek+1;}
-/^tribu[a-z]*/{Latin=Latin+1;}
-/^tricen[a-z]*/{Latin=Latin+1;}
-/^tricesim[a-z]*/{Latin=Latin+1;}
-/^trigesim[a-z]*/{Latin=Latin+1;}
-/^trich[a-z]*/{Greek=Greek+1;}
-/^trin[a-z]*/{Latin=Latin+1;}
-/^trit[a-z]*/{Greek=Greek+1;}
-/^tritic[a-z]*/{Latin=Latin+1;}
-/^troch[a-z]*/{Greek=Greek+1;}
-/^trop[a-z]*/{Greek=Greek+1;}
-/^troph[a-z]*/{Greek=Greek+1;}
-/^truc[a-z]*/{Latin=Latin+1;}
-/^trud[a-z]*/{Latin=Latin+1;}
-/^trus[a-z]*/{Latin=Latin+1;}
-/^trunc[a-z]*/{Latin=Latin+1;}
-/^tryp[a-z]*/{Greek=Greek+1;}
-/^tum[a-z]*/{Latin=Latin+1;}
-/^turb[a-z]*/{Latin=Latin+1;}
-/^tuss[a-z]*/{Latin=Latin+1;}
-/^tymb[a-z]*/{Greek=Greek+1;}
-/^tympan[a-z]*/{Greek=Greek+1;}
-/^typ[a-z]*/{Greek=Greek+1;}
-/^typh[a-z]*/{Greek=Greek+1;}
-/^tyrann[a-z]*/{Greek=Greek+1;}
-/^uber[a-z]*/{Latin=Latin+1;}
-/^uligin[a-z]*/{Latin=Latin+1;}
-/^ul[a-z]*/{Greek=Greek+1;}
-/^ul[a-z]*/{Greek=Greek+1;}
-/^ultim[a-z]*/{Latin=Latin+1;}
-/^ultra[a-z]*/{Latin=Latin+1;}
-/^umbilic[a-z]*/{Latin=Latin+1;}
-/^umbr[a-z]*/{Latin=Latin+1;}
-/^un[a-z]*/{Latin=Latin+1;}
-/^unc[a-z]*/{Latin=Latin+1;}
-/^unci[a-z]*/{Latin=Latin+1;}
-/^und[a-z]*/{Latin=Latin+1;}
-/^undecim[a-z]*/{Latin=Latin+1;}
-/^unden[a-z]*/{Latin=Latin+1;}
-/^ungu[a-z]*/{Latin=Latin+1;}
-/^ur[a-z]*/{Greek=Greek+1;}
-/^ur[a-z]*/{Greek=Greek+1;}
-/^uran[a-z]*/{Greek=Greek+1;}
-/^urb[a-z]*/{Latin=Latin+1;}
-/^urg[a-z]*/{Greek=Greek+1;}
-/^urg[a-z]*/{Latin=Latin+1;}
-/^urs[a-z]*/{Latin=Latin+1;}
-/^ut[a-z]*/{Latin=Latin+1;}
-/^us[a-z]*/{Latin=Latin+1;}
-/^uv[a-z]*/{Latin=Latin+1;}
-/^uxor[a-z]*/{Latin=Latin+1;}
-/^vac[a-z]*/{Latin=Latin+1;}
-/^vacc[a-z]*/{Latin=Latin+1;}
-/^vacil[a-z]*/{Latin=Latin+1;}
-/^vad[a-z]*/{Latin=Latin+1;}
-/^vas[a-z]*/{Latin=Latin+1;}
-/^vag[a-z]*/{Latin=Latin+1;}
-/^val[a-z]*/{Latin=Latin+1;}
-/^van[a-z]*/{Latin=Latin+1;}
-/^vap[a-z]*/{Latin=Latin+1;}
-/^vari[a-z]*/{Latin=Latin+1;}
-/^varic[a-z]*/{Latin=Latin+1;}
-/^veh[a-z]*/{Latin=Latin+1;}
-/^vect[a-z]*/{Latin=Latin+1;}
-/^vel[a-z]*/{Latin=Latin+1;}
-/^vell[a-z]*/{Latin=Latin+1;}
-/^vuls[a-z]*/{Latin=Latin+1;}
-/^veloc[a-z]*/{Latin=Latin+1;}
-/^ven[a-z]*/{Latin=Latin+1;}
-/^ven[a-z]*/{Latin=Latin+1;}
-/^ven[a-z]*/{Latin=Latin+1;}
-/^vent[a-z]*/{Latin=Latin+1;}
-/^vend[a-z]*/{Latin=Latin+1;}
-/^vener[a-z]*/{Latin=Latin+1;}
-/^vent[a-z]*/{Latin=Latin+1;}
-/^ventr[a-z]*/{Latin=Latin+1;}
-/^ver[a-z]*/{Latin=Latin+1;}
-/^verb[a-z]*/{Latin=Latin+1;}
-/^verber[a-z]*/{Latin=Latin+1;}
-/^verm[a-z]*/{Latin=Latin+1;}
-/^vern[a-z]*/{Latin=Latin+1;}
-/^vers[a-z]*/{Latin=Latin+1;}
-/^vert[a-z]*/{Latin=Latin+1;}
-/^vesic[a-z]*/{Latin=Latin+1;}
-/^vesper[a-z]*/{Latin=Latin+1;}
-/^vest[a-z]*/{Latin=Latin+1;}
-/^vestig[a-z]*/{Latin=Latin+1;}
-/^vet[a-z]*/{Latin=Latin+1;}
-/^veter[a-z]*/{Latin=Latin+1;}
-/^vi[a-z]*/{Latin=Latin+1;}
-/^vic[a-z]*/{Latin=Latin+1;}
-/^vicen[a-z]*/{Latin=Latin+1;}
-/^vigen[a-z]*/{Latin=Latin+1;}
-/^vicesim[a-z]*/{Latin=Latin+1;}
-/^vigesim[a-z]*/{Latin=Latin+1;}
-/^vid[a-z]*/{Latin=Latin+1;}
-/^vis[a-z]*/{Latin=Latin+1;}
-/^vigil[a-z]*/{Latin=Latin+1;}
-/^vil[a-z]*/{Latin=Latin+1;}
-/^vill[a-z]*/{Latin=Latin+1;}
-/^vill[a-z]*/{Latin=Latin+1;}
-/^vin[a-z]*/{Latin=Latin+1;}
-/^vinc[a-z]*/{Latin=Latin+1;}
-/^vict[a-z]*/{Latin=Latin+1;}
-/^vir[a-z]*/{Latin=Latin+1;}
-/^vir[a-z]*/{Latin=Latin+1;}
-/^vir[a-z]*/{Latin=Latin+1;}
-/^virg[a-z]*/{Latin=Latin+1;}
-/^virgin[a-z]*/{Latin=Latin+1;}
-/^visc[a-z]*/{Latin=Latin+1;}
-/^viscer[a-z]*/{Latin=Latin+1;}
-/^vit[a-z]*/{Latin=Latin+1;}
-/^vitell[a-z]*/{Latin=Latin+1;}
-/^viti[a-z]*/{Latin=Latin+1;}
-/^vitr[a-z]*/{Latin=Latin+1;}
-/^viv[a-z]*/{Latin=Latin+1;}
-/^voc[a-z]*/{Latin=Latin+1;}
-/^vol[a-z]*/{Latin=Latin+1;}
-/^vol[a-z]*/{Latin=Latin+1;}
-/^volv[a-z]*/{Latin=Latin+1;}
-/^volut[a-z]*/{Latin=Latin+1;}
-/^vom[a-z]*/{Latin=Latin+1;}
-/^vor[a-z]*/{Latin=Latin+1;}
-/^vorac[a-z]*/{Latin=Latin+1;}
-/^vov[a-z]*/{Latin=Latin+1;}
-/^vot[a-z]*/{Latin=Latin+1;}
-/^vulg[a-z]*/{Latin=Latin+1;}
-/^vulner[a-z]*/{Latin=Latin+1;}
-/^vulp[a-z]*/{Latin=Latin+1;}
-/^xanth[a-z]*/{Greek=Greek+1;}
-/^xe[a-z]*/{Greek=Greek+1;}
-/^xei[a-z]*/{Greek=Greek+1;}
-/^xi[a-z]*/{Greek=Greek+1;}
-/^xen[a-z]*/{Greek=Greek+1;}
-/^xer[a-z]*/{Greek=Greek+1;}
-/^xiph[a-z]*/{Greek=Greek+1;}
-/^xyl[a-z]*/{Greek=Greek+1;}
-/^ze[a-z]*/{Greek=Greek+1;}
-/^zel[a-z]*/{Greek=Greek+1;}
-/^zephyr[a-z]*/{Greek=Greek+1;}
-/^zet[a-z]*/{Greek=Greek+1;}
-/^zete[a-z]*/{Greek=Greek+1;}
-/^zizyph[a-z]*/{Greek=Greek+1;}
-/^zo[a-z]*/{Greek=Greek+1;}
-/^zon[a-z]*/{Greek=Greek+1;}
-/^zyg[a-z]*/{Greek=Greek+1;}
-/^zym[a-z]*/{Greek=Greek+1;}
+ab- 	Latin 
+a- 	Latin 
+abs- 	Latin 
+au- 	Latin 
+abac- 	Greek 
+ac- 	Greek 
+acm- 	Greek 
+acr- 	Greek 
+ac- 	Greek 
+academ- 	Greek 
+acanth- 	Greek 
+acar- 	Greek 
+accipitr- 	Latin 
+acer- 	Latin 
+acri- 	Latin 
+acet- 	Latin 
+acid- 	Latin 
+acr- 	Greek 
+actin- 	Greek 
+acu- 	Latin 
+acut- 	Latin 
+ad- 	Latin 
+a- 	Latin 
+ac- 	Latin 
+af- 	Latin 
+ag- 	Latin 
+al- 	Latin 
+am- 	Latin 
+an- 	Latin 
+ap- 	Latin 
+ar- 	Latin 
+as- 	Latin 
+at- 	Latin 
+aden- 	Greek 
+adip- 	Latin 
+aer- 	Greek 
+aer- 	Greek 
+aesth- 	Greek 
+aether- 	Greek 
+ether- 	Greek 
+aev- 	Latin 
+ev- 	Latin 
+ag- 	Latin 
+-ig- 	Latin 
+act- 	Latin 
+ag- 	Greek 
+agap- 	Greek 
+agr- 	Greek 
+agri- 	Latin 
+-egri- 	Latin 
+ailur- 	Greek 
+alac- 	Latin 
+alb- 	Latin 
+alcyon- 	Greek 
+ale- 	Greek 
+alg- 	Greek 
+ali- 	Latin 
+alter- 	Latin 
+all- 	Greek 
+allel- 	Greek 
+alph- 	Greek 
+alphit- 	Greek 
+alt- 	Latin 
+am- 	Latin 
+amat- 	Latin 
+am- 	Latin 
+amic- 	Latin 
+-imic- 	Latin 
+amath- 	Greek 
+ambi- 	Latin 
+am- 	Latin 
+amb- 	Latin 
+ambo- 	Latin 
+an- 	Latin 
+ambly- 	Greek 
+ambul- 	Latin 
+amm- 	Greek 
+amn- 	Greek 
+amph- 	Greek 
+amphi- 	Greek 
+ampl- 	Latin 
+amygdal- 	Greek 
+an- 	Greek 
+a- 	Greek 
+am- 	Greek 
+ar- 	Greek 
+ana- 	Greek 
+am- 	Greek 
+an- 	Greek 
+andr- 	Greek 
+anem- 	Greek 
+anim- 	Latin 
+ann- 	Latin 
+-enn- 	Latin 
+ant- 	Greek 
+anti- 	Greek 
+ante- 	Latin 
+anti- 	Latin 
+anth- 	Greek 
+anthrac- 	Greek 
+anthrop- 	Greek 
+ap- 	Greek 
+apo- 	Greek 
+aper- 	Latin 
+aphrod- 	Greek 
+api- 	Latin 
+aqu- 	Latin 
+ara- 	Latin 
+arachn- 	Greek 
+arbit- 	Latin 
+arcan- 	Latin 
+arch- 	Greek 
+arche- 	Greek 
+archi- 	Greek 
+archae- 	Greek 
+arche- 	Greek 
+arct- 	Greek 
+ard- 	Latin 
+ardu- 	Latin 
+aret- 	Greek 
+argent- 	Latin 
+arid- 	Latin 
+arist- 	Greek 
+arithm- 	Greek 
+arsen- 	Greek 
+art- 	Latin 
+arthr- 	Greek 
+arti- 	Greek 
+asc- 	Greek 
+asin- 	Latin 
+asper- 	Latin 
+aspr- 	Greek 
+aster- 	Greek 
+astr- 	Greek 
+asthen- 	Greek 
+ather- 	Greek 
+athl- 	Greek 
+-athroid- 	Greek 
+audac- 	Latin 
+aud- 	Latin 
+aug- 	Latin 
+auct- 	Latin 
+aul- 	Greek 
+aur- 	Latin 
+auri- 	Latin 
+aus- 	Latin 
+aut- 	Greek 
+auto- 	Greek 
+aux- 	Greek 
+av- 	Latin 
+avi- 	Latin 
+au- 	Latin 
+axi- 	Greek 
+axi- 	Latin 
+axon- 	Greek 
+ba- 	Greek 
+bac- 	Latin 
+bal- 	Greek 
+bel- 	Greek 
+bol- 	Greek 
+bapt- 	Greek 
+bar- 	Greek 
+bas- 	Greek 
+bath- 	Greek 
+be- 	Latin 
+beat- 	Latin 
+bell- 	Latin 
+belli- 	Latin 
+ben- 	Latin 
+bi- 	Latin 
+bin- 	Latin 
+bis- 	Latin 
+bib- 	Latin 
+bibl- 	Greek 
+bio- 	Greek 
+bi- 	Greek 
+blast- 	Greek 
+blenn- 	Greek 
+bol- 	Greek 
+bol- 	Greek 
+bomb- 	Greek 
+bon- 	Latin 
+bore- 	Latin 
+bore- 	Greek 
+botan- 	Greek 
+bov- 	Latin 
+bu- 	Latin 
+brachi- 	Latin 
+brachio- 	Latin 
+brachi- 	Greek 
+brachio- 	Greek 
+brachion- 	Greek 
+brachioni- 	Greek 
+brachy- 	Greek 
+brady- 	Greek 
+bradys- 	Greek 
+branchi- 	Greek 
+brev- 	Latin 
+bromat- 	Greek 
+bromato- 	Greek 
+broma- 	Greek 
+bromo- 	Greek 
+brom- 	Greek 
+brom- 	Greek 
+bronch- 	Greek 
+bront- 	Greek 
+brot- 	Greek 
+bucc- 	Latin 
+bulb- 	Latin 
+bull- 	Latin 
+burs- 	Latin 
+butyr- 	Greek 
+byss- 	Greek 
+byss- 	Greek 
+cac- 	Greek 
+kak- 	Greek 
+cad- 	Latin 
+-cid- 	Latin 
+cas- 	Latin 
+caed- 	Latin 
+-cid- 	Latin 
+caes- 	Latin 
+-cis- 	Latin 
+cal- 	Greek 
+call- 	Greek 
+cal- 	Latin 
+cal- 	Latin 
+calc- 	Greek 
+calc- 	Latin 
+calv- 	Latin 
+calum- 	Latin 
+calyp- 	Greek 
+camer- 	Latin 
+camisi- 	Latin 
+camp- 	Latin 
+can- 	Latin 
+can- 	Greek 
+can- 	Latin 
+-cin- 	Latin 
+cant- 	Latin 
+-cent- 	Latin 
+cand- 	Latin 
+cend- 	Latin 
+cap- 	Latin 
+-cip- 	Latin 
+capt- 	Latin 
+-cept- 	Latin 
+capit- 	Latin 
+-cipit- 	Latin 
+capn- 	Greek 
+capr- 	Latin 
+caps- 	Latin 
+carbon- 	Latin 
+carcer- 	Latin 
+carcin- 	Latin 
+carcin- 	Greek 
+cardi- 	Greek 
+cardin- 	Latin 
+carn- 	Latin 
+carp- 	Greek 
+carp- 	Greek 
+cast- 	Latin 
+cata- 	Greek 
+cat- 	Greek 
+caten- 	Latin 
+cathar- 	Greek 
+caud- 	Latin 
+caus- 	Latin 
+-cus- 	Latin 
+caust- 	Greek 
+caut- 	Greek 
+cav- 	Latin 
+ced- 	Latin 
+cess- 	Latin 
+cel- 	Latin 
+celer- 	Latin 
+cen- 	Greek 
+caen- 	Greek 
+cen- 	Greek 
+cen- 	Greek 
+coen- 	Greek 
+cens- 	Latin 
+cent- 	Latin 
+centen- 	Latin 
+centesim- 	Latin 
+centr- 	Greek 
+centri- 	Latin 
+cephal- 	Greek 
+ceram- 	Greek 
+cerat- 	Greek 
+cern- 	Latin 
+cer- 	Latin 
+cervic- 	Latin 
+ceter- 	Latin 
+chaet- 	Greek 
+chir- 	Greek 
+chelon- 	Greek 
+chlor- 	Greek 
+chondr- 	Greek 
+chore- 	Greek 
+chord- 	Greek 
+chord- 	Latin 
+chro- 	Greek 
+chrom- 	Greek 
+chron- 	Greek 
+chrys- 	Greek 
+cili- 	Latin 
+ciner- 	Latin 
+cing- 	Latin 
+cinct- 	Latin 
+circ- 	Latin 
+circum- 	Latin 
+cirr- 	Greek 
+cirr- 	Latin 
+cit- 	Latin 
+civ- 	Latin 
+clad- 	Greek 
+clam- 	Latin 
+clar- 	Latin 
+clast- 	Greek 
+claud- 	Latin 
+-clud- 	Latin 
+claus- 	Latin 
+-clus- 	Latin 
+clav- 	Greek 
+cleist- 	Greek 
+cleithr- 	Greek 
+cle- 	Greek 
+clement- 	Latin 
+clin- 	Greek 
+clin- 	Latin 
+cochl- 	Greek 
+coel- 	Greek 
+col- 	Latin 
+col- 	Latin 
+cult- 	Latin 
+coll- 	Latin 
+coll- 	Latin 
+color- 	Latin 
+com- 	Latin 
+con- 	Latin 
+co- 	Latin 
+col- 	Latin 
+com- 	Latin 
+cor- 	Latin 
+con- 	Greek 
+condi- 	Latin 
+contra- 	Latin 
+copi- 	Latin 
+copr- 	Greek 
+copul- 	Latin 
+cor- 	Latin 
+cord- 	Latin 
+corac- 	Greek 
+cori- 	Latin 
+corn- 	Latin 
+coron- 	Latin 
+corpor- 	Latin 
+cortic- 	Latin 
+cosm- 	Greek 
+cosmet- 	Greek 
+cost- 	Latin 
+cotyl- 	Greek 
+-cracy 	Greek 
+-crat 	Greek 
+crani- 	Greek 
+crass- 	Latin 
+crea- 	Latin 
+cred- 	Latin 
+crepid- 	Greek 
+cresc- 	Latin 
+cribr- 	Latin 
+cric- 	Greek 
+crisp- 	Latin 
+crist- 	Latin 
+crit- 	Greek 
+crisi- 	Greek 
+cross- 	Greek 
+cruc- 	Latin 
+crur- 	Latin 
+-cry 	Latin 
+crypt- 	Greek 
+cten- 	Greek 
+cub- 	Greek 
+cub- 	Latin 
+culin- 	Latin 
+culp- 	Latin 
+cune- 	Latin 
+cur- 	Latin 
+curr- 	Latin 
+curs- 	Latin 
+curv- 	Latin 
+cuspid- 	Latin 
+cut- 	Latin 
+cyan- 	Greek 
+cycl- 	Greek 
+cylind- 	Greek 
+cyn- 	Greek 
+cyst- 	Greek 
+cyt- 	Greek 
+da- 	Greek 
+dida- 	Greek 
+dacry- 	Greek 
+dactyl- 	Greek 
+dam- 	Greek 
+damn- 	Latin 
+-demn- 	Latin 
+de- 	Greek 
+de- 	Latin 
+deb- 	Latin 
+dec- 	Greek 
+decim- 	Latin 
+decor- 	Latin 
+del- 	Latin 
+delt- 	Greek 
+dem- 	Greek 
+dom- 	Greek 
+dem- 	Greek 
+den- 	Latin 
+dendr- 	Greek 
+dens- 	Latin 
+dent- 	Latin 
+der- 	Greek 
+despot- 	Greek 
+deuter- 	Greek 
+dexi- 	Greek 
+dexter- 	Latin 
+di- 	Greek 
+dia- 	Greek 
+diacosi- 	Greek 
+dic- 	Latin 
+dict- 	Latin 
+dida- 	Greek 
+digit- 	Latin 
+din- 	Greek 
+dipl- 	Greek 
+do- 	Greek 
+doc- 	Latin 
+doct- 	Latin 
+dodec- 	Greek 
+dog- 	Greek 
+dox- 	Greek 
+dol- 	Latin 
+dom- 	Latin 
+domin- 	Latin 
+domit- 	Latin 
+don- 	Latin 
+dorm- 	Latin 
+dors- 	Latin 
+dra- 	Greek 
+drach- 	Greek 
+dram- 	Greek 
+drom- 	Greek 
+dros- 	Greek 
+dry- 	Greek 
+du- 	Latin 
+dub- 	Latin 
+duc- 	Latin 
+duct- 	Latin 
+dulc- 	Latin 
+dur- 	Latin 
+dy- 	Greek 
+dyna- 	Greek 
+dys- 	Greek 
+ec- 	Greek 
+ecclesi- 	Greek 
+eco- 	Greek 
+ecto- 	Greek 
+ed- 	Latin 
+es- 	Latin 
+eg- 	Greek 
+ego- 	Latin, Greek 
+eiren- 	Greek 
+electr- 	Greek 
+elem- 	Greek 
+alm- 	Greek 
+em- 	Latin 
+empt- 	Latin 
+eme- 	Greek 
+emul- 	Latin 
+en- 	Greek 
+el- 	Greek 
+em- 	Greek 
+enanti- 	Greek 
+encephal- 	Greek 
+endo- 	Greek 
+engy- 	Greek 
+ennea- 	Greek 
+ens- 	Latin 
+eo- 	Greek 
+eos- 	Greek 
+ep- 	Greek 
+epi- 	Greek 
+equ- 	Latin 
+-iqu- 	Latin 
+equ- 	Latin 
+ere- 	Greek 
+erg- 	Greek 
+org- 	Greek 
+urg- 	Greek 
+erot- 	Greek 
+err- 	Latin 
+erythr- 	Greek 
+eso- 	Greek 
+eth- 	Greek 
+ethm- 	Greek 
+ethn- 	Greek 
+etym- 	Greek 
+eu- 	Greek 
+eur- 	Greek 
+ex- 	Latin 
+e- 	Latin 
+ef- 	Latin 
+exo- 	Greek 
+extra- 	Latin 
+extrem- 	Latin 
+fa- 	Latin 
+fat- 	Latin 
+fab- 	Latin 
+fac- 	Latin 
+fact- 	Latin 
+-fect- 	Latin 
+-fic- 	Latin 
+falc- 	Latin 
+fall- 	Latin 
+fallac- 	Latin 
+fals- 	Latin 
+famili- 	Latin 
+fasc- 	Latin 
+fatu- 	Latin 
+feder- 	Latin 
+fel- 	Latin 
+felic- 	Latin 
+fell- 	Latin 
+femin- 	Latin 
+femor- 	Latin 
+fend- 	Latin 
+fens- 	Latin 
+fenestr- 	Latin 
+fer- 	Latin 
+ferv- 	Latin 
+feroc- 	Latin 
+ferr- 	Latin 
+fet- 	Latin 
+fic- 	Latin 
+fid- 	Latin 
+fis- 	Latin 
+fig- 	Latin 
+fing- 	Latin 
+fict- 	Latin 
+fil- 	Latin 
+fili- 	Latin 
+fin- 	Latin 
+find- 	Latin 
+fiss- 	Latin 
+firm- 	Latin 
+fistul- 	Latin 
+fix- 	Latin 
+fl- 	Latin 
+fla- 	Latin 
+flacc- 	Latin 
+flav- 	Latin 
+flect- 	Latin 
+flex- 	Latin 
+flig- 	Latin 
+flict- 	Latin 
+flor- 	Latin 
+flu- 	Latin 
+fluv- 	Latin 
+flux- 	Latin 
+foc- 	Latin 
+fod- 	Latin 
+foss- 	Latin 
+foen- 	Latin 
+foli- 	Latin 
+font- 	Latin 
+for- 	Latin 
+form- 	Latin 
+formic- 	Latin 
+fornic- 	Latin 
+fort- 	Latin 
+fove- 	Latin 
+frag- 	Latin 
+frang- 	Latin 
+-fring- 	Latin 
+fract- 	Latin 
+frater- 	Latin 
+fratr- 	Latin 
+fric- 	Latin 
+frict- 	Latin 
+frig- 	Latin 
+front- 	Latin 
+fruct- 	Latin 
+frug- 	Latin 
+fug- 	Latin 
+fugit- 	Latin 
+fum- 	Latin 
+fund- 	Latin 
+fund- 	Latin 
+fus- 	Latin 
+fulmin- 	Latin 
+fung- 	Latin 
+funct- 	Latin 
+fur- 	Latin 
+furt- 	Latin 
+furc- 	Latin 
+fusc- 	Latin 
+galact- 	Greek 
+gam- 	Greek 
+gamb- 	Latin 
+gamm- 	Greek 
+gar- 	Latin 
+gargal- 	Greek 
+gargar- 	Greek 
+gastr- 	Greek 
+ge- 	Greek 
+geo- 	Greek 
+geiton- 	Greek 
+gel- 	Latin 
+gen- 	Greek 
+gon- 	Greek 
+gen- 	Latin 
+gephyr- 	Greek 
+ger- 	Greek 
+ger- 	Latin 
+gest- 	Latin 
+geran- 	Greek 
+germ- 	Latin 
+geu- 	Greek 
+glabr- 	Latin 
+glaci- 	Latin 
+gladi- 	Latin 
+glauc- 	Greek 
+glia- 	Greek 
+glob- 	Latin 
+glori- 	Latin 
+gloss- 	Greek 
+glot- 	Greek 
+glut- 	Greek 
+glutin- 	Latin 
+glyc- 	Greek 
+glyph- 	Greek 
+gnath- 	Greek 
+gno- 	Greek 
+gnosc- 	Latin 
+-gnit- 	Latin 
+gon- 	Greek 
+grad- 	Latin 
+gred- 	Latin 
+gress- 	Latin 
+gramm- 	Greek 
+gran- 	Latin 
+grand- 	Latin 
+graph- 	Greek 
+grat- 	Latin 
+grav- 	Latin 
+greg- 	Latin 
+gryp- 	Greek 
+gubern- 	Latin 
+gust- 	Latin 
+gutt- 	Latin 
+guttur- 	Latin 
+gymn- 	Greek 
+gyn- 	Greek 
+gynaec- 	Greek 
+gyr- 	Greek 
+gyrin- 	Greek 
+hab- 	Latin 
+-hib- 	Latin 
+habit- 	Latin 
+-hibit- 	Latin 
+hadr- 	Greek 
+haem- 	Greek 
+hem- 	Greek 
+haere- 	Greek 
+hal- 	Greek 
+hal- 	Latin 
+-hel- 	Latin 
+hapl- 	Greek 
+haur- 	Latin 
+haust- 	Latin 
+heb- 	Greek 
+hed- 	Greek 
+hed- 	Greek 
+heg- 	Greek 
+heli- 	Greek 
+helic- 	Greek 
+hell- 	Greek 
+helminth- 	Greek 
+helot- 	Greek 
+hem- 	Greek 
+hemer- 	Greek 
+hemer- 	Greek 
+hemi- 	Greek 
+hemo- 	Greek 
+hen- 	Greek 
+hendec- 	Greek 
+hepat- 	Greek 
+hept- 	Greek 
+her- 	Latin 
+heir- 	Latin 
+here- 	Latin 
+hes- 	Latin 
+herald- 	Latin 
+herb- 	Latin 
+heres- 	Greek 
+heret- 	Greek 
+herm- 	Greek 
+hero- 	Greek 
+herp- 	Greek 
+heter- 	Greek 
+heur- 	Greek 
+hex- 	Greek 
+hi- 	Latin 
+hibern- 	Latin 
+hidrot- 	Greek 
+hiem- 	Latin 
+hier- 	Greek 
+hipp- 	Greek 
+hirsut- 	Latin 
+hispid- 	Latin 
+histri- 	Latin 
+hod- 	Greek 
+hol- 	Greek 
+hom- 	Greek 
+homal- 	Greek 
+home- 	Greek 
+homin- 	Latin 
+homoe- 	Greek 
+home- 	Greek 
+honor- 	Latin 
+hor- 	Greek 
+hor- 	Greek 
+horm- 	Greek 
+hort- 	Latin 
+hospit- 	Latin 
+host- 	Latin 
+hum- 	Latin 
+hyal- 	Greek 
+hybr- 	Greek 
+hydn- 	Greek 
+hydr- 	Greek 
+hygie- 	Greek 
+hygr- 	Greek 
+hymen- 	Greek 
+hyo- 	Greek 
+hyp- 	Greek 
+hyper- 	Greek 
+hyph- 	Greek 
+hypn- 	Greek 
+hyps- 	Greek 
+hys- 	Greek 
+hyster- 	Greek 
+hyster- 	Greek 
+i- 	Greek 
+iatr- 	Greek 
+ichthy- 	Greek 
+icos- 	Greek 
+icter- 	Greek 
+id- 	Greek 
+ide- 	Greek 
+idi- 	Greek 
+ign- 	Latin 
+imagin- 	Latin 
+imbr- 	Latin 
+in- 	Greek 
+in- 	Latin 
+il- 	Latin 
+im- 	Latin 
+in- 	Latin 
+il- 	Latin 
+im- 	Latin 
+ir- 	Latin 
+inan- 	Latin 
+infra- 	Latin 
+insul- 	Latin 
+inter- 	Latin 
+intra- 	Latin 
+irasc- 	Latin 
+irat- 	Latin 
+irid- 	Latin 
+is- 	Greek 
+iso- 	Greek 
+ischi- 	Greek 
+iter- 	Latin 
+itiner- 	Latin 
+jac- 	Latin 
+jac- 	Latin 
+-ject- 	Latin 
+janu- 	Latin 
+joc- 	Latin 
+judic- 	Latin 
+jug- 	Latin 
+jung- 	Latin 
+junct- 	Latin 
+junior- 	Latin 
+jus- 	Latin 
+jur- 	Latin 
+juv- 	Latin 
+jut- 	Latin 
+juven- 	Latin 
+juxta- 	Latin 
+kilo- 	Greek 
+kine- 	Greek 
+cine- 	Greek 
+klept- 	Greek 
+kudo- 	Greek 
+lab- 	Greek 
+lep- 	Greek 
+lab- 	Latin 
+laps- 	Latin 
+labi- 	Latin 
+labor- 	Latin 
+lacer- 	Latin 
+lacrim- 	Latin 
+lact- 	Latin 
+lamin- 	Latin 
+lamp- 	Greek 
+lapid- 	Latin 
+larg- 	Latin 
+larv- 	Latin 
+lat- 	Latin 
+later- 	Latin 
+laud- 	Latin 
+laus- 	Latin 
+lav- 	Latin 
+lax- 	Latin 
+lecith- 	Greek 
+led- 	Latin 
+les- 	Latin 
+-lid- 	Latin 
+-lis- 	Latin 
+leg- 	Greek 
+leg- 	Latin 
+lect- 	Latin 
+leg- 	Latin 
+leg- 	Latin 
+lei- 	Greek 
+lekan- 	Greek 
+leni- 	Latin 
+leon- 	Latin 
+lep- 	Greek 
+leuc- 	Greek 
+leuk- 	Greek 
+lev- 	Latin 
+liber- 	Latin 
+libr- 	Latin 
+lig- 	Latin 
+limac- 	Latin 
+limpa- 	Latin 
+line- 	Latin 
+line- 	Latin 
+lingu- 	Latin 
+linqu- 	Latin 
+lict- 	Latin 
+lip- 	Greek 
+liqu- 	Latin 
+lit- 	Greek 
+liter- 	Latin 
+lith- 	Greek 
+loc- 	Latin 
+log- 	Greek 
+-logy 	Greek 
+long- 	Latin 
+loqu- 	Latin 
+locut- 	Latin 
+luc- 	Latin 
+lud- 	Latin 
+lus- 	Latin 
+lumin- 	Latin 
+lu- 	Latin 
+luv- 	Latin 
+lut- 	Latin 
+lun- 	Latin 
+lut- 	Latin 
+ly- 	Greek 
+lysi- 	Greek 
+lyt- 	Greek 
+macer- 	Latin 
+macr- 	Greek 
+magn- 	Latin 
+magnet- 	Greek 
+maj- 	Latin 
+mal- 	Latin 
+mamm- 	Latin 
+man- 	Greek 
+mant- 	Greek 
+man- 	Latin 
+man- 	Latin 
+man- 	Latin 
+manu- 	Latin 
+mand- 	Latin 
+-mend- 	Latin 
+mar- 	Latin 
+mas- 	Latin 
+mater- 	Latin 
+matr- 	Latin 
+maxim- 	Latin 
+mechan- 	Greek 
+medi- 	Latin 
+-midi- 	Latin 
+meg- 	Greek 
+megal- 	Greek 
+mei- 	Greek 
+melan- 	Greek 
+melior- 	Latin 
+meliss- 	Greek 
+mell- 	Latin 
+memor- 	Latin 
+men- 	Greek 
+mening- 	Greek 
+mend- 	Latin 
+menstru- 	Latin 
+mensur- 	Latin 
+ment- 	Latin 
+mer- 	Greek 
+merc- 	Latin 
+merge- 	Latin 
+mers- 	Latin 
+mes- 	Greek 
+met- 	Greek 
+meta- 	Greek 
+metall- 	Greek 
+meter- 	Greek 
+metr- 	Greek 
+metr- 	Greek 
+mic- 	Latin 
+micr- 	Greek 
+migr- 	Latin 
+milit- 	Latin 
+mill- 	Latin 
+millen- 	Latin 
+mim- 	Greek 
+min- 	Latin 
+min- 	Latin 
+mina- 	Latin 
+minth- 	Greek 
+mir- 	Latin 
+mis- 	Greek 
+misc- 	Latin 
+mixt- 	Latin 
+miser- 	Latin 
+mit- 	Latin 
+miss- 	Latin 
+mit- 	Greek 
+mn- 	Greek 
+mne- 	Greek 
+mod- 	Latin 
+mol- 	Latin 
+moll- 	Latin 
+mon- 	Greek 
+mon- 	Latin 
+monil- 	Latin 
+monstra- 	Latin 
+mont- 	Latin 
+mor- 	Greek 
+mor- 	Latin 
+mor- 	Latin 
+mord- 	Latin 
+morph- 	Greek 
+mort- 	Latin 
+mov- 	Latin 
+mot- 	Latin 
+mut- 	Latin 
+mulg- 	Latin 
+muls- 	Latin 
+multi- 	Latin 
+mund- 	Latin 
+mur- 	Latin 
+mus- 	Greek 
+mus- 	Latin 
+musc- 	Latin 
+mut- 	Latin 
+my- 	Greek 
+my- 	Greek 
+mycet- 	Greek 
+mydr- 	Greek 
+myel- 	Greek 
+myl- 	Greek 
+myri- 	Greek 
+myrmec- 	Greek 
+mys- 	Greek 
+myth- 	Greek 
+myx- 	Greek 
+myz- 	Greek 
+nap- 	Latin 
+nar- 	Latin 
+narc- 	Greek 
+narr- 	Latin 
+nas- 	Latin 
+nasc- 	Latin 
+nat- 	Latin 
+naut- 	Greek 
+nav- 	Latin 
+ne- 	Greek 
+ne- 	Greek 
+neo- 	Greek 
+neb- 	Latin 
+nub- 	Latin 
+necr- 	Greek 
+nect- 	Greek 
+nect- 	Latin 
+nex- 	Latin 
+neg- 	Latin 
+nem- 	Greek 
+nom- 	Greek 
+nemat- 	Greek 
+nemor- 	Latin 
+nephr- 	Greek 
+nerv- 	Latin 
+nes- 	Greek 
+neur- 	Greek 
+nict- 	Latin 
+nigr- 	Latin 
+nihil- 	Latin 
+niv- 	Latin 
+noc- 	Latin 
+noct- 	Latin 
+nod- 	Latin 
+nom- 	Greek 
+nomad- 	Greek 
+nomen- 	Latin 
+nomin- 	Latin 
+non- 	Latin 
+non- 	Latin 
+nonagen- 	Latin 
+nonagesim- 	Latin 
+norm- 	Latin 
+not- 	Greek 
+not- 	Greek 
+not- 	Latin 
+noth- 	Greek 
+nov- 	Latin 
+nov- 	Latin 
+noven- 	Latin 
+novendec- 	Latin 
+nox- 	Latin 
+nu- 	Latin 
+nub- 	Latin 
+nupt- 	Latin 
+nuc- 	Latin 
+nuch- 	Latin 
+nud- 	Latin 
+null- 	Latin 
+numer- 	Latin 
+nunci- 	Latin 
+nutri- 	Latin 
+nyct- 	Greek 
+nyst- 	Greek 
+ob- 	Latin 
+o- 	Latin 
+oc- 	Latin 
+of- 	Latin 
+og- 	Latin 
+op- 	Latin 
+os- 	Latin 
+obel- 	Greek 
+obol- 	Greek 
+ocean- 	Greek 
+ochl- 	Greek 
+oct- 	Greek 
+oct- 	Latin 
+octav- 	Latin 
+octogen- 	Latin 
+octogesim- 	Latin 
+octon- 	Latin 
+ocul- 	Latin 
+od- 	Greek 
+odi- 	Latin 
+odont- 	Greek 
+odor- 	Latin 
+odyn- 	Greek 
+oec- 	Greek 
+oed- 	Greek 
+ed- 	Greek 
+oen- 	Greek 
+oesophag- 	Greek 
+oestr- 	Greek 
+ogdo- 	Greek 
+-oid 	Greek 
+ole- 	Latin 
+olecran- 	Latin 
+olecran- 	Greek 
+olig- 	Greek 
+oliv- 	Latin 
+om- 	Greek 
+om- 	Greek 
+-oma 	Greek 
+omas- 	Latin 
+ombr- 	Greek 
+oment- 	Latin 
+omin- 	Latin 
+ommat- 	Greek 
+omni- 	Latin 
+omphal- 	Greek 
+on- 	Greek 
+onc- 	Greek 
+onc- 	Greek 
+oneir- 	Greek 
+oner- 	Latin 
+oni- 	Greek 
+onomat- 	Greek 
+ont- 	Greek 
+onych- 	Greek 
+onym- 	Greek 
+oo- 	Greek 
+op- 	Greek 
+opac- 	Latin 
+oper- 	Latin 
+oper- 	Latin 
+ophi- 	Greek 
+ophthalm- 	Greek 
+opisth- 	Greek 
+ops- 	Greek 
+opt- 	Greek 
+opsi- 	Greek 
+opson- 	Greek 
+opt- 	Latin 
+optim- 	Latin 
+or- 	Greek 
+or- 	Latin 
+ora- 	Latin 
+orb- 	Latin 
+orch- 	Greek 
+orches- 	Greek 
+ordin- 	Latin 
+oreg- 	Greek 
+org- 	Greek 
+organ- 	Greek 
+ori- 	Latin 
+ort- 	Latin 
+orn- 	Latin 
+ornith- 	Greek 
+orphan- 	Greek 
+orth- 	Greek 
+oryz- 	Greek 
+oscill- 	Latin 
+osm- 	Greek 
+osm- 	Greek 
+oss- 	Latin 
+oste- 	Greek 
+osti- 	Latin 
+ostrac- 	Greek 
+ostre- 	Greek 
+ot- 	Greek 
+ov- 	Latin 
+ovi- 	Latin 
+oxy- 	Greek 
+oz- 	Greek 
+pac- 	Latin 
+pach- 	Greek 
+pact- 	Latin 
+pae- 	Greek 
+paed- 	Greek 
+ped- 	Greek 
+pagin- 	Latin 
+pal- 	Latin 
+palae- 	Greek 
+pale- 	Greek 
+palin- 	Greek 
+palim- 	Greek 
+pall- 	Latin 
+palli- 	Latin 
+palm- 	Latin 
+palp- 	Latin 
+palustr- 	Latin 
+pan- 	Greek 
+pan- 	Greek 
+pam- 	Greek 
+pan- 	Latin 
+pand- 	Latin 
+pans- 	Latin 
+par- 	Greek 
+para- 	Greek 
+par- 	Latin 
+par- 	Latin 
+par- 	Greek 
+para- 	Greek 
+parc- 	Latin 
+pars- 	Latin 
+pariet- 	Latin 
+part- 	Latin 
+parthen- 	Greek 
+parv- 	Latin 
+pasc- 	Latin 
+past- 	Latin 
+pass- 	Greek 
+pass- 	Latin 
+passer- 	Latin 
+pat- 	Greek 
+pat- 	Latin 
+path- 	Greek 
+pater- 	Greek 
+patr- 	Greek 
+pater- 	Latin 
+patr- 	Latin 
+pati- 	Latin 
+pass- 	Latin 
+pauc- 	Latin 
+pav- 	Latin 
+pecc- 	Latin 
+pect- 	Greek 
+pector- 	Latin 
+pecu- 	Latin 
+ped- 	Latin 
+peg- 	Greek 
+pect- 	Greek 
+pejor- 	Latin 
+pel- 	Greek 
+pelag- 	Greek 
+pelarg- 	Greek 
+pell- 	Latin 
+puls- 	Latin 
+pemp- 	Greek 
+pomp- 	Greek 
+pen- 	Latin 
+pen- 	Latin 
+poen- 	Latin 
+puni- 	Latin 
+pend- 	Latin 
+pens- 	Latin 
+penia- 	Greek 
+penn- 	Latin 
+pinn- 	Latin 
+pent- 	Greek 
+pentacosi- 	Greek 
+pentecont- 	Greek 
+pentecost- 	Greek 
+peper- 	Greek 
+pepon- 	Greek 
+pept- 	Greek 
+per- 	Greek 
+per- 	Latin 
+pel- 	Latin 
+peran- 	Greek 
+perdic- 	Greek 
+peri- 	Greek 
+persic- 	Greek 
+pessim- 	Latin 
+pet- 	Latin 
+petr- 	Greek 
+phae- 	Greek 
+phe- 	Greek 
+phag- 	Greek 
+phalang- 	Greek 
+phalar- 	Greek 
+pharmac- 	Greek 
+phan- 	Greek 
+phen- 	Greek 
+pheb- 	Greek 
+phob- 	Greek 
+pher- 	Greek 
+phor- 	Greek 
+pheug- 	Greek 
+phyg- 	Greek 
+phil- 	Greek 
+-phile 	Greek 
+phim- 	Greek 
+phleb- 	Greek 
+phleg- 	Greek 
+phlog- 	Greek 
+phloe- 	Greek 
+phob- 	Greek 
+phon- 	Greek 
+phos- 	Greek 
+phot- 	Greek 
+phrag- 	Greek 
+phren- 	Greek 
+phron- 	Greek 
+phryn- 	Greek 
+phtheg- 	Greek 
+phyc- 	Greek 
+phyl- 	Greek 
+phyll- 	Greek 
+phys- 	Greek 
+physi- 	Greek 
+physalid- 	Greek 
+phyt- 	Greek 
+pi- 	Latin 
+pic- 	Latin 
+piez- 	Greek 
+pil- 	Latin 
+pil- 	Latin 
+pin- 	Greek 
+pin- 	Latin 
+ping- 	Latin 
+pict- 	Latin 
+pingu- 	Latin 
+pir- 	Greek 
+pir- 	Latin 
+pisc- 	Latin 
+pis- 	Greek 
+pithec- 	Greek 
+plac- 	Greek 
+plac- 	Latin 
+plac- 	Latin 
+plea- 	Latin 
+plag- 	Greek 
+plan- 	Greek 
+plan- 	Latin 
+plang- 	Latin 
+planct- 	Latin 
+plas- 	Greek 
+plat- 	Greek 
+plaud- 	Latin 
+-plod- 	Latin 
+plaus- 	Latin 
+-plos- 	Latin 
+ple- 	Greek 
+ple- 	Greek 
+ple- 	Latin 
+plet- 	Latin 
+pleb- 	Latin 
+plec- 	Greek 
+ploc- 	Greek 
+plect- 	Latin 
+plex- 	Latin 
+pleg- 	Greek 
+plen- 	Latin 
+plesi- 	Greek 
+pleth- 	Greek 
+pleur- 	Greek 
+plic- 	Latin 
+plinth- 	Greek 
+plor- 	Latin 
+plu- 	Latin 
+plum- 	Latin 
+plumb- 	Latin 
+plur- 	Latin 
+plus- 	Latin 
+plurim- 	Latin 
+plut- 	Greek 
+pne- 	Greek 
+pnig- 	Greek 
+pnict- 	Greek 
+po- 	Greek 
+pin- 	Greek 
+pod- 	Greek 
+pogon- 	Greek 
+poie- 	Greek 
+poe- 	Greek 
+pol- 	Greek 
+pole- 	Greek 
+polem- 	Greek 
+poli- 	Greek 
+poli- 	Greek 
+poll- 	Greek 
+pollic- 	Latin 
+pollin- 	Latin 
+poly- 	Greek 
+pomph- 	Greek 
+pon- 	Latin 
+posit- 	Latin 
+ponder- 	Latin 
+pont- 	Latin 
+popul- 	Latin 
+por- 	Greek 
+porc- 	Latin 
+porn- 	Greek 
+porphyr- 	Greek 
+port- 	Latin 
+portion- 	Latin 
+post- 	Latin 
+pot- 	Latin 
+pot- 	Latin 
+potam- 	Greek 
+prag- 	Greek 
+pras- 	Greek 
+prat- 	Latin 
+prav- 	Latin 
+pre- 	Latin 
+prec- 	Latin 
+pred- 	Latin 
+prehend- 	Latin 
+prend- 	Latin 
+prehens- 	Latin 
+prem- 	Latin 
+-prim- 	Latin 
+press- 	Latin 
+presby- 	Greek 
+preter- 	Latin 
+preti- 	Latin 
+pri- 	Greek 
+priap- 	Greek 
+prim- 	Latin 
+prior- 	Latin 
+prism- 	Greek 
+priv- 	Latin 
+pro- 	Greek 
+pro- 	Latin 
+prob- 	Latin 
+proct- 	Greek 
+prodig- 	Latin 
+prodig- 	Latin 
+propri- 	Latin 
+pros- 	Greek 
+prosop- 	Greek 
+prot- 	Greek 
+proter- 	Greek 
+proxim- 	Latin 
+prun- 	Latin 
+psa- 	Greek 
+psall- 	Greek 
+psamath- 	Greek 
+psamm- 	Greek 
+pseph- 	Greek 
+pseud- 	Greek 
+pseud- 	Greek 
+psil- 	Greek 
+psithyr- 	Greek 
+psittac- 	Greek 
+psoph- 	Greek 
+psor- 	Greek 
+psych- 	Greek 
+psychr- 	Greek 
+pter- 	Greek 
+pterid- 	Greek 
+pto- 	Greek 
+ptoch- 	Greek 
+pty- 	Greek 
+ptych- 	Greek 
+pub- 	Latin 
+public- 	Latin 
+pude- 	Latin 
+pug- 	Latin 
+pugn- 	Latin 
+pulchr- 	Latin 
+pulmon- 	Latin 
+pulver- 	Latin 
+pung- 	Latin 
+punct- 	Latin 
+pup- 	Latin 
+pur- 	Latin 
+purg- 	Latin 
+purpur- 	Latin 
+put- 	Latin 
+py- 	Greek 
+pyel- 	Greek 
+pyg- 	Greek 
+pyl- 	Greek 
+pyr- 	Greek 
+pyramid- 	Greek 
+pyrrh- 	Greek 
+quadr- 	Latin 
+quadragen- 	Latin 
+quadragesim- 	Latin 
+quart- 	Latin 
+quasi- 	Latin 
+quatern- 	Latin 
+quati- 	Latin 
+-cuti- 	Latin 
+quass- 	Latin 
+-cuss- 	Latin 
+quer- 	Latin 
+-quir- 	Latin 
+quesit- 	Latin 
+-quisit- 	Latin 
+qui- 	Latin 
+quin- 	Latin 
+quindecim- 	Latin 
+quinden- 	Latin 
+quinque- 	Latin 
+quint- 	Latin 
+quot- 	Latin 
+rad- 	Latin 
+ras- 	Latin 
+radi- 	Latin 
+radic- 	Latin 
+ram- 	Latin 
+ran- 	Latin 
+ranc- 	Latin 
+rap- 	Latin 
+rap- 	Latin 
+raph- 	Greek 
+rar- 	Latin 
+rauc- 	Latin 
+re- 	Latin 
+red- 	Latin 
+rect- 	Latin 
+reg- 	Latin 
+-rig- 	Latin 
+reg- 	Latin 
+rex- 	Latin 
+regul- 	Latin 
+rem- 	Latin 
+ren- 	Latin 
+rep- 	Latin 
+rept- 	Latin 
+resid- 	Latin 
+ret- 	Latin 
+retro- 	Latin 
+rhabd- 	Greek 
+rhach- 	Greek 
+rach- 	Greek 
+rhag- 	Greek 
+rheg- 	Greek 
+rhe- 	Greek 
+rhetin- 	Greek 
+rhig- 	Greek 
+rhin- 	Greek 
+rhiz- 	Greek 
+rho- 	Greek 
+rhod- 	Greek 
+rhomb- 	Greek 
+rhynch- 	Greek 
+rid- 	Latin 
+ris- 	Latin 
+robor- 	Latin 
+rod- 	Latin 
+ros- 	Latin 
+rog- 	Latin 
+rostr- 	Latin 
+rot- 	Latin 
+ruber- 	Latin 
+rubr- 	Latin 
+rudi- 	Latin 
+rug- 	Latin 
+rumin- 	Latin 
+rump- 	Latin 
+rupt- 	Latin 
+rur- 	Latin 
+sacc- 	Greek 
+sacchar- 	Greek 
+sacr- 	Latin 
+-secr- 	Latin 
+sagac- 	Latin 
+sagitt- 	Latin 
+sal- 	Latin 
+sali- 	Latin 
+-sili- 	Latin 
+salt- 	Latin 
+salic- 	Latin 
+salping- 	Greek 
+salu- 	Latin 
+salv- 	Latin 
+san- 	Latin 
+sanc- 	Latin 
+sanguin- 	Latin 
+sapi- 	Latin 
+-sipi- 	Latin 
+sapon- 	Latin 
+sapphir- 	Greek 
+sapr- 	Greek 
+sarc- 	Greek 
+sarc- 	Latin 
+sati- 	Latin 
+saur- 	Greek 
+sax- 	Latin 
+scab- 	Latin 
+scal- 	Latin 
+scalen- 	Greek 
+scand- 	Latin 
+-scend- 	Latin 
+scans- 	Latin 
+-scens- 	Latin 
+scandal- 	Greek 
+scap- 	Greek 
+scaph- 	Greek 
+scat- 	Greek 
+sced- 	Greek 
+scel- 	Greek 
+scen- 	Greek 
+scept- 	Greek 
+scop- 	Greek 
+schem- 	Greek 
+schid- 	Greek 
+sci- 	Greek 
+sci- 	Latin 
+scind- 	Latin 
+sciss- 	Latin 
+scler- 	Greek 
+scolec- 	Greek 
+scoli- 	Greek 
+scombr- 	Greek 
+scop- 	Greek 
+scot- 	Greek 
+scrib- 	Latin 
+script- 	Latin 
+scrupl- 	Latin 
+sculp- 	Latin 
+scut- 	Latin 
+scyph- 	Greek 
+se- 	Latin 
+sed- 	Latin 
+seb- 	Latin 
+sec- 	Latin 
+sect- 	Latin 
+seg- 	Latin 
+sed- 	Latin 
+sed- 	Latin 
+-sid- 	Latin 
+sess- 	Latin 
+sedec- 	Latin 
+seget- 	Latin 
+sei- 	Greek 
+selen- 	Greek 
+sell- 	Latin 
+sema- 	Greek 
+semi- 	Latin 
+semin- 	Latin 
+sen- 	Latin 
+sen- 	Latin 
+senti- 	Latin 
+sens- 	Latin 
+sep- 	Greek 
+sept- 	Latin 
+sept- 	Latin 
+septen- 	Latin 
+septim- 	Latin 
+septuagen- 	Latin 
+septuagesim- 	Latin 
+septuagint- 	Latin 
+sequ- 	Latin 
+secut- 	Latin 
+ser- 	Greek 
+ser- 	Latin 
+ser- 	Latin 
+ser- 	Latin 
+ser- 	Latin 
+serp- 	Latin 
+serr- 	Latin 
+serv- 	Latin 
+sesqui- 	Latin 
+set- 	Latin 
+sever- 	Latin 
+sex- 	Latin 
+se- 	Latin 
+sexagen- 	Latin 
+sexagesim- 	Latin 
+sext- 	Latin 
+sibil- 	Latin 
+sicc- 	Latin 
+sicy- 	Greek 
+sider- 	Greek 
+sider- 	Latin 
+sigm- 	Greek 
+sign- 	Latin 
+sil- 	Latin 
+silv- 	Latin 
+simi- 	Latin 
+simil- 	Latin 
+simul- 	Latin 
+sinap- 	Greek 
+singul- 	Latin 
+sinistr- 	Latin 
+sinu- 	Latin 
+sinus- 	Latin 
+siop- 	Greek 
+siph- 	Greek 
+sist- 	Latin 
+sit- 	Greek 
+siz- 	Greek 
+smaragd- 	Greek 
+smil- 	Greek 
+soci- 	Latin 
+sol- 	Latin 
+sol- 	Latin 
+sol- 	Latin 
+sole- 	Latin 
+solen- 	Greek 
+solv- 	Latin 
+solut- 	Latin 
+soma- 	Greek 
+somn- 	Latin 
+somni- 	Latin 
+son- 	Latin 
+soph- 	Greek 
+sopor- 	Latin 
+sorb- 	Latin 
+sorpt- 	Latin 
+sord- 	Latin 
+soror- 	Latin 
+spa- 	Greek 
+spad- 	Greek 
+sparg- 	Latin 
+-sperg- 	Latin 
+spars- 	Latin 
+-spers- 	Latin 
+spath- 	Greek 
+spati- 	Latin 
+spec- 	Latin 
+-spic- 	Latin 
+spect- 	Latin 
+speir- 	Greek 
+spor- 	Greek 
+spele- 	Greek 
+spelyng- 	Greek 
+spend- 	Greek 
+spond- 	Greek 
+sper- 	Latin 
+sperm- 	Greek 
+sphal- 	Greek 
+sphen- 	Greek 
+spher- 	Greek 
+sphing- 	Greek 
+sphinct- 	Greek 
+sphondyl- 	Greek 
+sphrag- 	Greek 
+sphyg- 	Greek 
+spic- 	Latin 
+spin- 	Latin 
+spir- 	Latin 
+splen- 	Greek 
+spond- 	Greek 
+spond- 	Latin 
+spons- 	Latin 
+spondyl- 	Greek 
+spor- 	Greek 
+spu- 	Latin 
+sput- 	Latin 
+squal- 	Latin 
+squam- 	Latin 
+squarros- 	Latin 
+st- 	Greek 
+st- 	Latin 
+stagn- 	Latin 
+stala- 	Greek 
+stann- 	Latin 
+staphyl- 	Greek 
+statu- 	Latin 
+-stitu- 	Latin 
+steat- 	Greek 
+steg- 	Greek 
+stell- 	Greek 
+stol- 	Greek 
+stell- 	Latin 
+sten- 	Greek 
+sten- 	Greek 
+stere- 	Greek 
+stern- 	Greek 
+stern- 	Latin 
+strat- 	Latin 
+steth- 	Greek 
+sthen- 	Greek 
+stich- 	Greek 
+stich- 	Greek 
+stig- 	Greek 
+still- 	Latin 
+stimul- 	Latin 
+stin- 	Latin 
+stingu- 	Latin 
+stinct- 	Latin 
+stoch- 	Greek 
+stom- 	Greek 
+stor- 	Greek 
+strat- 	Greek 
+streper- 	Latin 
+streph- 	Greek 
+stroph- 	Greek 
+strob- 	Greek 
+stromb- 	Greek 
+strept- 	Greek 
+strig- 	Latin 
+strigos- 	Latin 
+string- 	Latin 
+strict- 	Latin 
+stroph- 	Greek 
+stru- 	Latin 
+struct- 	Latin 
+stud- 	Latin 
+stup- 	Latin 
+styg- 	Greek 
+styl- 	Greek 
+su- 	Latin 
+sut- 	Latin 
+suad- 	Latin 
+suas- 	Latin 
+suav- 	Latin 
+sub- 	Latin 
+su- 	Latin 
+suf- 	Latin 
+sug- 	Latin 
+sup- 	Latin 
+sus- 	Latin 
+subter- 	Latin 
+sucr- 	Latin 
+sud- 	Latin 
+sui- 	Latin 
+sulc- 	Latin 
+sum- 	Latin 
+sum- 	Latin 
+sumpt- 	Latin 
+super- 	Latin 
+supin- 	Latin 
+supra- 	Latin 
+surd- 	Latin 
+surg- 	Latin 
+sybar- 	Greek 
+syc- 	Greek 
+syn- 	Greek 
+sy- 	Greek 
+syg- 	Greek 
+syl- 	Greek 
+sym- 	Greek 
+sys- 	Greek 
+syring- 	Greek 
+tac- 	Latin 
+-tic- 	Latin 
+tach- 	Greek 
+taeni- 	Greek 
+tag- 	Greek 
+tal- 	Latin 
+tang- 	Latin 
+-ting- 	Latin 
+tact- 	Latin 
+tag- 	Latin 
+tapet- 	Latin 
+tarac- 	Greek 
+tard- 	Latin 
+tars- 	Greek 
+taur- 	Greek 
+taur- 	Latin 
+tec- 	Greek 
+tec- 	Greek 
+toc- 	Greek 
+techn- 	Greek 
+tecn- 	Greek 
+teg- 	Latin 
+tect- 	Latin 
+tele- 	Greek 
+tele- 	Greek 
+tem- 	Greek 
+tom- 	Greek 
+temn- 	Latin 
+tempt- 	Latin 
+tempor- 	Latin 
+ten- 	Greek 
+ton- 	Greek 
+ten- 	Latin 
+-tin- 	Latin 
+tent- 	Latin 
+tend- 	Latin 
+tens- 	Latin 
+tenu- 	Latin 
+tep- 	Latin 
+ter- 	Latin 
+trit- 	Latin 
+tere- 	Greek 
+teret- 	Latin 
+terg- 	Latin 
+ters- 	Latin 
+termin- 	Latin 
+tern- 	Latin 
+terr- 	Latin 
+terti- 	Latin 
+test- 	Latin 
+tetart- 	Greek 
+tetr- 	Greek 
+teuch- 	Greek 
+tex- 	Latin 
+text- 	Latin 
+thalam- 	Greek 
+thalass- 	Greek 
+than- 	Greek 
+the- 	Greek 
+thus- 	Greek 
+the- 	Greek 
+thea- 	Greek 
+thel- 	Greek 
+theori- 	Greek 
+ther- 	Greek 
+therap- 	Greek 
+therm- 	Greek 
+thig- 	Greek 
+thorac- 	Greek 
+thym- 	Greek 
+thyr- 	Greek 
+thyre- 	Greek 
+tim- 	Latin 
+ting- 	Latin 
+tinct- 	Latin 
+tom- 	Greek 
+ton- 	Greek 
+top- 	Greek 
+torn- 	Latin 
+torn- 	Greek 
+torpe- 	Latin 
+torqu- 	Latin 
+tort- 	Latin 
+tot- 	Latin 
+tox- 	Greek 
+trab- 	Latin 
+trach- 	Greek 
+trag- 	Greek 
+trah- 	Latin 
+tract- 	Latin 
+trans- 	Latin 
+tra- 	Latin 
+tran- 	Latin 
+trapez- 	Greek 
+traum- 	Greek 
+trecent- 	Latin 
+trech- 	Greek 
+troch- 	Greek 
+tredec- 	Latin 
+treiskaidek- 	Greek 
+trem- 	Latin 
+trema- 	Greek 
+trep- 	Greek 
+trop- 	Greek 
+treph- 	Greek 
+troph- 	Greek 
+trepid- 	Latin 
+tri- 	Greek 
+tri- 	Latin 
+trib- 	Greek 
+tript- 	Greek 
+tribu- 	Latin 
+tricen- 	Latin 
+tricesim- 	Latin 
+trigesim- 	Latin 
+trich- 	Greek 
+trin- 	Latin 
+trit- 	Greek 
+tritic- 	Latin 
+troch- 	Greek 
+trop- 	Greek 
+troph- 	Greek 
+truc- 	Latin 
+trud- 	Latin 
+trus- 	Latin 
+trunc- 	Latin 
+tryp- 	Greek 
+tum- 	Latin 
+turb- 	Latin 
+tuss- 	Latin 
+tymb- 	Greek 
+tympan- 	Greek 
+typ- 	Greek 
+typh- 	Greek 
+tyrann- 	Greek 
+uber- 	Latin 
+uligin- 	Latin 
+ul- 	Greek 
+ul- 	Greek 
+ultim- 	Latin 
+ultra- 	Latin 
+umbilic- 	Latin 
+umbr- 	Latin 
+un- 	Latin 
+unc- 	Latin 
+unci- 	Latin 
+und- 	Latin 
+undecim- 	Latin 
+unden- 	Latin 
+ungu- 	Latin 
+ur- 	Greek 
+ur- 	Greek 
+uran- 	Greek 
+urb- 	Latin 
+urg- 	Greek 
+urg- 	Latin 
+urs- 	Latin 
+ut- 	Latin 
+us- 	Latin 
+uv- 	Latin 
+uxor- 	Latin 
+vac- 	Latin 
+vacc- 	Latin 
+vacil- 	Latin 
+vad- 	Latin 
+vas- 	Latin 
+vag- 	Latin 
+val- 	Latin 
+van- 	Latin 
+vap- 	Latin 
+vari- 	Latin 
+varic- 	Latin 
+veh- 	Latin 
+vect- 	Latin 
+vel- 	Latin 
+vell- 	Latin 
+vuls- 	Latin 
+veloc- 	Latin 
+ven- 	Latin 
+ven- 	Latin 
+ven- 	Latin 
+vent- 	Latin 
+vend- 	Latin 
+vener- 	Latin 
+vent- 	Latin 
+ventr- 	Latin 
+ver- 	Latin 
+verb- 	Latin 
+verber- 	Latin 
+verm- 	Latin 
+vern- 	Latin 
+vers- 	Latin 
+vert- 	Latin 
+vesic- 	Latin 
+vesper- 	Latin 
+vest- 	Latin 
+vestig- 	Latin 
+vet- 	Latin 
+veter- 	Latin 
+vi- 	Latin 
+vic- 	Latin 
+vicen- 	Latin 
+vigen- 	Latin 
+vicesim- 	Latin 
+vigesim- 	Latin 
+vid- 	Latin 
+vis- 	Latin 
+vigil- 	Latin 
+vil- 	Latin 
+vill- 	Latin 
+vill- 	Latin 
+vin- 	Latin 
+vinc- 	Latin 
+vict- 	Latin 
+vir- 	Latin 
+vir- 	Latin 
+vir- 	Latin 
+virg- 	Latin 
+virgin- 	Latin 
+visc- 	Latin 
+viscer- 	Latin 
+vit- 	Latin 
+vitell- 	Latin 
+viti- 	Latin 
+vitr- 	Latin 
+viv- 	Latin 
+voc- 	Latin 
+vol- 	Latin 
+vol- 	Latin 
+volv- 	Latin 
+volut- 	Latin 
+vom- 	Latin 
+vor- 	Latin 
+vorac- 	Latin 
+vov- 	Latin 
+vot- 	Latin 
+vulg- 	Latin 
+vulner- 	Latin 
+vulp- 	Latin 
+xanth- 	Greek 
+xe- 	Greek 
+xei- 	Greek 
+xi- 	Greek 
+xen- 	Greek 
+xer- 	Greek 
+xiph- 	Greek 
+xyl- 	Greek 
+ze- 	Greek 
+zel- 	Greek 
+zephyr- 	Greek 
+zet- 	Greek 
+zete- 	Greek 
+zizyph- 	Greek 
+zo- 	Greek 
+zon- 	Greek 
+zyg- 	Greek 
+zym- 	Greek 
 BEGIN {Greek=0; Latin=0}
 END {printf("\nGreek: %d\nLatin: %d", Greek, Latin)}
